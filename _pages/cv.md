@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+My detailed curriculum Vitae can be [downloaded from here](http://sajid-mohamed.github.io/files/CV_SMohamed.pdf).
 
 Education
 ======
