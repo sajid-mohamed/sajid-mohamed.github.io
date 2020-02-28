@@ -20,3 +20,10 @@ I was then awarded the prestigious DAAD scholarship to pursue my masters' thesis
 I realised my love for research and decided to pursue my career in research. After post graduation, I continued to work on the AUTOSAFE project until its completion. I came across challenging problems faced in the formal validation and certification of automotive systems and learned of more fundamental issues faced in cyber-physical system design.
 
 An opportunity to research in this direction arose with the oCPS (Platform-aware Model-driven Optimization of Cyber-Physical Systems) project, which I gladly accepted. After the successful completion of this project, I have been working in the FitOptiVis (From the cloud to the edge – smart IntegraTion and OPtimisation Technologies for highly efficient Image and VIdeo processing Systems) project from November 2019.
+
+# Contact
+
+Eindhoven University of Technology, Dept of Electrical Engineering <br/>
+PO Box 513, NL-5600 MB Eindhoven, The Netherlands <br/>
+
+E-mail: [S.Mohamed@tue.nl](mailto:S.Mohamed@tue.nl)
