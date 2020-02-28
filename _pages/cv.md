@@ -11,31 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech in Electrical and Electronics Engineering, National Institute of Technology Calicut, 2012
+* M.Tech in Embedded Controls and Software, Indian Institute of Technology Kharagpur, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep 2013 - Mar 2014: Visiting Researcher
+  * Institute of Real-Time Computer Systems, Technical University Munich, Germany
+  * Research topic: Timed Abstractions and Analysis of Distributed Real-time Control Architectures
+  * Supervisor: Professor Samarjit Chakraborty
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2015 - July 2015: Visiting Researcher
+  * Institute of Real-Time Computer Systems, Technical University Munich, Germany
+  * Research topic: Timing Analysis of Safety-Critical Automotive Software: The AUTOSAFE Tool Flow
+  * Supervisor: Professor Samarjit Chakraborty
+
+* Jul 2014 - Apr 2016: Research Assistant
+  * Advanced Technology Development Centre, Indian Institute of Technology Kharagpur, India
+  * Duties included: Sponsored research projects involved - AUTOSAFE, Intelligent tools for smart electrical grids. Involved in research and teaching.
+  * Supervisors: Professor Pallab Dasgupta and Professor Partha Pratim Chakrabarti
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -54,6 +49,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
