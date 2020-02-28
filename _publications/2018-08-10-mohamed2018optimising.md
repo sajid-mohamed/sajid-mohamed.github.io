@@ -1,7 +1,7 @@
 ---
 title: "Optimising quality-of-control for data-intensive multiprocessor image-based control systems considering workload variations"
 collection: publications
-permalink: /publication/mohamed2018optimising
+permalink: /publication/2018-08-10-mohamed2018optimising
 excerpt: 'This paper is about optimising control performance for image-based control systems.'
 date: 2018-08-10
 venue: 'Euromicro Conference on Digital System Design'
