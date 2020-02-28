@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My detailed curriculum Vitae can be [downloaded from here](http://sajid-mohamed.github.io/files/CV_SMohamed.pdf).
+My detailed curriculum vitae can be [downloaded from here](http://sajid-mohamed.github.io/files/CV_SMohamed.pdf).
 
 Education
 ======
