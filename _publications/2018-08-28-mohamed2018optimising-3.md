@@ -8,6 +8,7 @@ venue: 'Euromicro Conference on Digital System Design'
 paperurl: 'https://pure.tue.nl/ws/portalfiles/portal/145692692/PID5432947.pdf'
 citation: 'S. Mohamed, D. Zhu, D. Goswami, T. Basten, &quot;Optimising quality-of-control for data-intensive multiprocessor image-based control systems considering workload variations,&quot; in <i>21st Euromicro Conference on Digital System Design (DSD)</i>, 2018, pp. 320-327.'
 ---
+This paper is about optimising control performance for image-based control systems.
 
 [Download paper here](https://pure.tue.nl/ws/portalfiles/portal/145692692/PID5432947.pdf)
 
