@@ -1,0 +1,31 @@
+---
+---
+{% if site.scholar.style == "ieee" %}
+{% comment %}
+    This is a hack to remove the reference number from the entry in 
+    case 'ieee' style is used to format the reference.
+    
+    The <span> is repaired by splitting on both the [ and the ] sign.
+{% endcomment %}
+{%assign ref = reference | split: "]" %}
+{%assign pre_num = ref[0] | split:"[" %}
+{% for item in pre_num limit:1 %}{{item}}{% endfor %}{% for item in ref offset:1 %}{% if forloop.first == false %}]{% endif %}{{item}}{% endfor %}
+{% else %}
+{{reference}}
+{% endif %}
+<div id="{{key}}-materials">
+    {% if entry.abstract %}
+        <a class="toggle" data-toggle-what="#{{key}}-abstract">[Abstract]</a>
+    {% endif %}
+        <a class="toggle" data-toggle-what="#{{key}}-bibtex">[BibTeX]</a>
+    {% if link %}
+        <a href="{{link}}">[<img src="http://www.es.ele.tue.nl/cps/images/pdf.png"/> Download]</a>
+    {% endif %}
+    {% if entry.doi %}
+        <a href="http://dx.doi.org/{{entry.doi}}">[<img src="http://www.es.ele.tue.nl/cps/images/external.png"/> CrossRef]</a>
+    {% endif %}
+{% if entry.abstract %}
+    <code id="{{key}}-abstract" class="collapseMe">{{entry.abstract}}</code>
+{% endif %}
+    <pre id="{{key}}-bibtex" class="pre pre-scrollable collapseMe">{{entry.bibtex}}</pre>
+</div>
