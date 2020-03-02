@@ -188,25 +188,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-# === Scholar ===============================
-scholar:
-  style: ieee
-  locale: en
-  sort_by: year
-  order: descending
-  source: ./_bibliography
-  bibliography: publications.bib
-  #bibliography_template: "{{reference}}"
-  bibliography_template: bibliography
-  repository: https://sajid-mohamed.github.io/publications/
-  replace_strings: true
-  join_strings:    true
-  details_dir:    bibliography
-  details_layout: bibtex.html
-  details_link:   Details
 
-  query: "@*"
-  
 # Defaults
 defaults:
   # _posts
