@@ -1,6 +1,6 @@
 ---
 title: "IMACS"
-excerpt: "A framework for performance evaluation of image-based control systems<br/><img src='/images/IMACS.JPG'>"
+excerpt: "A framework for performance evaluation of image-based control systems<br/>"
 collection: tools
 youtubeIda: TOB6sSKPfu4
 youtubeIdb: 1_JLuMY09-A
@@ -9,7 +9,7 @@ youtubeIdc: yJhavfYidko
 IMACS is a framework for performance evaluation of IMage Approximation in a Closed-loop System.
 
 <p align="center">
-  <img src="{{ site.urlbase }}images/IMACS.JPG" width="600">
+  <img src='/images/IMACS.JPG' width="600">
 </p>
 
 ## Installation
@@ -35,7 +35,7 @@ A video for the hardware-in-the-loop (HiL) simulator of IMACS using Webots and N
 
 [1] S. De, S. Mohamed, K. Bimpisidis, D. Goswami, T. Basten, and H. Corporaal, "Approximation trade offs in an image-based control system," in: Design, Automation and Test in Europe (DATE), 2020.
 
-[2] S. Mohamed, S. De, K. Bimpisidis, V, Nathan, D. Goswami, H. Corporaal, and T. Basten,  "IMACS: A Framework for Performance Evaluation of Image Approximation in a Closed-loop System," in Proceedings of the 8th Mediterranean Conference on Embedded Computing (MECO),  2019. (*Best paper award*) [[pdf]]({{ site.urlbase }}files/IMACS.pdf)
+[2] S. Mohamed, S. De, K. Bimpisidis, V, Nathan, D. Goswami, H. Corporaal, and T. Basten,  "IMACS: A Framework for Performance Evaluation of Image Approximation in a Closed-loop System," in Proceedings of the 8th Mediterranean Conference on Embedded Computing (MECO),  2019. (*Best paper award*) [[pdf]](https://pure.tue.nl/ws/portalfiles/portal/131905081/IMACS.pdf)
 
 The controllers for the LKAS are designed based on the concepts described in the following papers:
 
