@@ -1,6 +1,6 @@
 ---
 title: "IMACS"
-excerpt: "A framework for performance evaluation of image-based control systems<br/><img src='/images/IMACS.JPG' width="600">"
+excerpt: "A framework for performance evaluation of image-based control systems<br/><img src="/images/IMACS.JPG" width="600">"
 collection: tools
 youtubeIda: TOB6sSKPfu4
 youtubeIdc: yJhavfYidko
