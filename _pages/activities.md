@@ -35,9 +35,9 @@ Supervision
   * Yingkai Huang (ongoing)
   * Varun Shankar (ongoing)
   * Anoop Ravattu (ongoing)
-  * [Vishak Nathan](https://www.linkedin.com/in/vishak-nathan-b65975a3/) - Optimising the Performance of an Image Based Control System Implemented on a Heterogeneous Platform. [pdf](https://pure.tue.nl/ws/portalfiles/portal/139352232/Thesis_VishakNathan.pdf) 
-  * [Konstantinos Bimpisidis](https://www.linkedin.com/in/kbimpisidis/) - Impact of Algorithmic Approximation on Quality-of-Control for Image-Based Control Systems. [pdf](https://research.tue.nl/files/130174946/K.Bimpisidis_Thesis_Final_Report.pdf) 
-  * [Diqing Zhu](https://www.linkedin.com/in/diqing/) - Simulation framework for design and analysis of vision-based lateral control of autonomous vehicle. [pdf](https://pure.tue.nl/ws/portalfiles/portal/109641961/Zhu._D.pdf)
+  * [Vishak Nathan](https://www.linkedin.com/in/vishak-nathan-b65975a3/) - Optimising the Performance of an Image Based Control System Implemented on a Heterogeneous Platform. [[pdf](https://pure.tue.nl/ws/portalfiles/portal/139352232/Thesis_VishakNathan.pdf)] 
+  * [Konstantinos Bimpisidis](https://www.linkedin.com/in/kbimpisidis/) - Impact of Algorithmic Approximation on Quality-of-Control for Image-Based Control Systems. [[pdf](https://research.tue.nl/files/130174946/K.Bimpisidis_Thesis_Final_Report.pdf)] 
+  * [Diqing Zhu](https://www.linkedin.com/in/diqing/) - Simulation framework for design and analysis of vision-based lateral control of autonomous vehicle. [[pdf](https://pure.tue.nl/ws/portalfiles/portal/109641961/Zhu._D.pdf)]
 
 * Bachelors'
   * [Niels Goorden](https://www.linkedin.com/in/niels-goorden-229307184/)
