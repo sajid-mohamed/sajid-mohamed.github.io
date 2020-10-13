@@ -10,10 +10,11 @@ author_profile: true
 Students
 ======
 * Masters'
+  * Yongqing (ongoing)
+  * Rahul Ramesh (ongoing)
   * Mingyu An (ongoing)
   * Chaolun Ma (ongoing)
   * Yingkai Huang (ongoing)
-  * Anoop Ravattu (ongoing)
   * [Varun Shankar](https://www.linkedin.com/in/varun-sankar-79697778/) (ongoing)
   * [Vishak Nathan](https://www.linkedin.com/in/vishak-nathan-b65975a3/) - Optimising the Performance of an Image Based Control System Implemented on a Heterogeneous Platform. [[pdf](https://pure.tue.nl/ws/portalfiles/portal/139352232/Thesis_VishakNathan.pdf)] 
   * [Konstantinos Bimpisidis](https://www.linkedin.com/in/kbimpisidis/) - Impact of Algorithmic Approximation on Quality-of-Control for Image-Based Control Systems. [[pdf](https://research.tue.nl/files/130174946/K.Bimpisidis_Thesis_Final_Report.pdf)] 
