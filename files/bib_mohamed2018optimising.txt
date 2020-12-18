@@ -1,0 +1,7 @@
+@inproceedings{mohamed2018optimising,
+title={Optimising quality-of-control for data-intensive multiprocessor image-based control systems considering workload variations},
+author={Mohamed, Sajid and Zhu, Diqing and Goswami, Dip and Basten, Twan},
+booktitle={21st Euromicro Conference on Digital System Design (DSD)},
+pages={320--327},
+year={2018}
+}

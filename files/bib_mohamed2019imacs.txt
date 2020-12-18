@@ -1,0 +1,7 @@
+@INPROCEEDINGS{mohamed2019imacs,
+author={S. {Mohamed} and S. {De} and K. {Bimpisidis} and V. {Nathan} and D. {Goswami} and H. {Corporaal} and T. {Basten}},
+booktitle={8th Mediterranean Conference on Embedded Computing (MECO)},
+title={{IMACS: A Framework for Performance Evaluation of Image Approximation in a Closed-loop System}},
+year={2019},
+pages={1-4}
+}

@@ -1,0 +1,8 @@
+@inproceedings{becker2015timing,
+    title={Timing Analysis of Safety-Critical Automotive Software: The {AUTOSAFE} Tool Flow},
+    author={Becker, Martin and Mohamed, Sajid and Albers, Karsten and Chakrabarti, Partha Pratim and Chakraborty, Samarjit and Dasgupta, Pallab and Dey, Soumyajit and Metta, Ravindra},
+    booktitle={Asia-Pacific Software Engineering Conference (APSEC)},
+    pages={385--392},
+    year={2015},
+    organization={IEEE}
+  }

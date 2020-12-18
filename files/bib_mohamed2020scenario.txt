@@ -1,0 +1,7 @@
+@article{mohamed2020scenario,
+title={A scenario-and platform-aware design flow for image-based control systems},
+author={Mohamed, Sajid and Goswami, Dip and Nathan, Vishak and Rajappa, Raghu and Basten, Twan},
+journal={Microprocessors and Microsystems},
+year={2020},
+publisher={Elsevier}
+}
