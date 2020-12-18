@@ -18,7 +18,8 @@ citations: 30, h-index: 4, i10-index: 1.
 ## Conferences
 
 [1] Martin Becker, Sajid Mohamed, Karsten Albers, Partha Pratim Chakrabarti, Samarjit Chakraborty, Pallab Dasgupta, Soumyajit Dey, and Ravindra Metta, &quot;Timing Analysis of Safety-Critical Automotive Software: The AUTOSAFE Tool Flow,&quot; <i> In Asia-Pacific Software Engineering Conference (APSEC)</i>, 2015. <a href="http://sajid-mohamed.github.io/files/AUTOSAFE.pdf">[pdf]</a> <a href="http://sajid-mohamed.github.io/files/AUTOSAFE_APSEC_2015.pptx">[slides]</a> <details><summary>BibTeX</summary>
-  @inproceedings{becker2015timing, <br/>
+<p>
+@inproceedings{becker2015timing, <br/>
   title={Timing Analysis of Safety-Critical Automotive Software: The AUTOSAFE Tool Flow},<br/>
   author={Becker, Martin and Mohamed, Sajid and Albers, Karsten and Chakrabarti, PP and Chakraborty, Samarjit and Dasgupta, Pallab and Dey, Soumyajit and Metta, Ravindra},<br/>
   booktitle={Asia-Pacific Software Engineering Conference (APSEC)},<br/>
@@ -26,4 +27,5 @@ citations: 30, h-index: 4, i10-index: 1.
   year={2015},<br/>
   organization={IEEE}<br/>
 }
+</p>
 </details>
