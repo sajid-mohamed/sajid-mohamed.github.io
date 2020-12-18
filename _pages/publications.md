@@ -12,7 +12,7 @@ Citations: 30, h-index: 4, i10-index: 1.
 
 ## Journals
 
-[3] Sayandip De, Sajid Mohamed, Dip Goswami, and Henk Corporaal, &quot;Approximation-Aware Design of an Image-Based Control System,&quot; <i>In IEEE Access</i>, 2020.
+[3] Sayandip De, Sajid Mohamed, Dip Goswami, and Henk Corporaal, &quot;Approximation-Aware Design of an Image-Based Control System,&quot; <i>In IEEE Access</i>, 2020.  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9189775">[pdf]</a> <a href="http://sajid-mohamed.github.io/files/bib_de2020access.txt">[bibtex]</a>
 
 [2] Sajid Mohamed, Dip Goswami, Vishak Nathan, Raghu Rajappa, and Twan Basten, &quot;A scenario-and platform-aware design flow for image-based control systems,&quot; <i>In Microprocessors and Microsystems (MICPRO)</i>, 2020. <a href="https://doi.org/10.1016/j.micpro.2020.103037">[DOI]</a> <a href="https://sajid-mohamed.github.io/files/103037preprint.pdf">[pdf]</a> <a href="http://sajid-mohamed.github.io/files/bib_mohamed2020scenario.txt">[bibtex]</a>
 
@@ -21,9 +21,9 @@ Citations: 30, h-index: 4, i10-index: 1.
 
 ## Conferences
 
-[6] Sajid Mohamed, Nilay Saraf, Daniele Bernardini, Dip Goswami, Twan Basten, and Alberto Bemporad, &quot;Adaptive predictive control for pipelined multiprocessor image-based control systems considering workload variations,&quot; <i>In IEEE 59th Conference on Decision and Control (CDC)</i>, 2020. <a href="https://sajid-mohamed.github.io/files/2020CDCmohamed.pdf">[paper]</a> <a href="https://youtu.be/q1OrkSAIabo">[video]</a> <a href="https://sajid-mohamed.github.io/files/CDC20SMohamedv2.pptx">[slides]</a>
+[6] Sajid Mohamed, Nilay Saraf, Daniele Bernardini, Dip Goswami, Twan Basten, and Alberto Bemporad, &quot;Adaptive predictive control for pipelined multiprocessor image-based control systems considering workload variations,&quot; <i>In IEEE 59th Conference on Decision and Control (CDC)</i>, 2020. <a href="https://sajid-mohamed.github.io/files/2020CDCmohamed.pdf">[pdf]</a> <a href="https://youtu.be/q1OrkSAIabo">[video]</a> <a href="https://sajid-mohamed.github.io/files/CDC20SMohamedv2.pptx">[slides]</a> <a href="http://sajid-mohamed.github.io/files/bib_mohamed2020adaptive.txt">[bibtex]</a>
 
-[5] Sayandip De, Sajid Mohamed, Konstantinos Bimpisidis, Dip Goswami, Twan Basten, and Henk Corporaal, &quot;Approximation trade offs in an image-based control system,&quot; <i>In Design, Automation and Test in Europe Conference (DATE)</i>, 2020. <a href="https://sajid-mohamed.github.io/files/DATE2020paper.pdf">[paper]</a> <a href="https://sajid-mohamed.github.io/files/DATE2020slides.pdf">[slides]</a>
+[5] Sayandip De, Sajid Mohamed, Konstantinos Bimpisidis, Dip Goswami, Twan Basten, and Henk Corporaal, &quot;Approximation trade offs in an image-based control system,&quot; <i>In Design, Automation and Test in Europe Conference (DATE)</i>, 2020. <a href="https://sajid-mohamed.github.io/files/DATE2020paper.pdf">[paper]</a> <a href="https://sajid-mohamed.github.io/files/DATE2020slides.pdf">[slides]</a> <a href="http://sajid-mohamed.github.io/files/bib_de2020approximation.txt">[bibtex]</a>
 
 [4] Sajid Mohamed, Asad Ullah Awan, Dip Goswami, and Twan Basten, &quot;Designing image-based control systems considering workload variations,&quot; <i>In IEEE 58th Conference on Decision and Control (CDC)</i>, 2019. <a href="https://pure.tue.nl/ws/portalfiles/portal/144403064/CDC_cam_ready.pdf">[pdf]</a> <a href="https://sajid-mohamed.github.io/files/CDC19SMohamed.pptx">[slides]</a> <a href="http://sajid-mohamed.github.io/files/bib_mohamed2019designing.txt">[bibtex]</a>
 
