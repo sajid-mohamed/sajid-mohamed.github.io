@@ -12,11 +12,11 @@ Citations: 30, h-index: 4, i10-index: 1.
 
 ## Journals
 
-3. Sayandip De, Sajid Mohamed, Dip Goswami, and Henk Corporaal, &quot;Approximation-Aware Design of an Image-Based Control System,&quot; <i>In IEEE Access</i>, 2020.  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9189775">[pdf]</a> <a href="http://sajid-mohamed.github.io/files/bib_de2020access.txt">[bibtex]</a>
+1. Sayandip De, Sajid Mohamed, Dip Goswami, and Henk Corporaal, &quot;Approximation-Aware Design of an Image-Based Control System,&quot; <i>In IEEE Access</i>, 2020.  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9189775">[pdf]</a> <a href="http://sajid-mohamed.github.io/files/bib_de2020access.txt">[bibtex]</a>
 
 2. Sajid Mohamed, Dip Goswami, Vishak Nathan, Raghu Rajappa, and Twan Basten, &quot;A scenario-and platform-aware design flow for image-based control systems,&quot; <i>In Microprocessors and Microsystems (MICPRO)</i>, 2020. <a href="https://doi.org/10.1016/j.micpro.2020.103037">[DOI]</a> <a href="https://sajid-mohamed.github.io/files/103037preprint.pdf">[pdf]</a> <a href="http://sajid-mohamed.github.io/files/bib_mohamed2020scenario.txt">[bibtex]</a>
 
-1. Majid Zamani, Soumyajit Dey, Sajid Mohamed, Pallab Dasgupta, and Manuel Mazo Jr., &quot;Scheduling of Controllers' Update-Rates for Residual Bandwidth Utilization,&quot; <i>In International Conference on Formal Modeling and Analysis of Timed Systems (FORMATS)</i>, 2016. <a href="https://doi.org/10.1007/978-3-319-44878-7_6">[DOI]</a> <a href="http://sajid-mohamed.github.io/files/bib_formats.txt">[bibtex]</a>
+3. Majid Zamani, Soumyajit Dey, Sajid Mohamed, Pallab Dasgupta, and Manuel Mazo Jr., &quot;Scheduling of Controllers' Update-Rates for Residual Bandwidth Utilization,&quot; <i>In International Conference on Formal Modeling and Analysis of Timed Systems (FORMATS)</i>, 2016. <a href="https://doi.org/10.1007/978-3-319-44878-7_6">[DOI]</a> <a href="http://sajid-mohamed.github.io/files/bib_formats.txt">[bibtex]</a>
 
 
 ## Conferences
