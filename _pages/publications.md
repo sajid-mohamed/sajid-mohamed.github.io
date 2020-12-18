@@ -35,12 +35,12 @@ Citations: 30, h-index: 4, i10-index: 1.
 
 ## (Extended) Abstracts and Posters
 
-[2] Sajid Mohamed, Dip Goswami, and Twan Basten, &quot;Bridging the controller design-implementation gap for image-based control systems,&quot; <i>In ICT.OPEN2019,  Hilversum, Netherlands</i>. <a href="https://pure.tue.nl/ws/portalfiles/portal/123479680/ICTOPEN2019_abstract_32_1_.pdf">[extendedAbstract]</a> <a href="https://pure.tue.nl/ws/portalfiles/portal/123479426/MohamedS_Poster2_ICTOPEN19.pdf">[poster]</a>
+2. Sajid Mohamed, Dip Goswami, and Twan Basten, &quot;Bridging the controller design-implementation gap for image-based control systems,&quot; <i>In ICT.OPEN2019,  Hilversum, Netherlands</i>. <a href="https://pure.tue.nl/ws/portalfiles/portal/123479680/ICTOPEN2019_abstract_32_1_.pdf">[extendedAbstract]</a> <a href="https://pure.tue.nl/ws/portalfiles/portal/123479426/MohamedS_Poster2_ICTOPEN19.pdf">[poster]</a>
 
-[1] Sajid Mohamed, Diqing Zhu, Dip Goswami, and Twan Basten, &quot;DASA: An open-source design, analysis and simulation framework for automotive image-based control systems,&quot; <i>In 6th MCAA Annual Conference, Vienna, Austria</i>, 2019. <a href="https://research.tue.nl/en/publications/dasa-an-open-source-design-analysis-and-simulation-framework-for-">[details]</a> <a href="https://pure.tue.nl/ws/portalfiles/portal/123479221/MCAA_poster_Sajid.pdf">[poster]</a>
+1. Sajid Mohamed, Diqing Zhu, Dip Goswami, and Twan Basten, &quot;DASA: An open-source design, analysis and simulation framework for automotive image-based control systems,&quot; <i>In 6th MCAA Annual Conference, Vienna, Austria</i>, 2019. <a href="https://research.tue.nl/en/publications/dasa-an-open-source-design-analysis-and-simulation-framework-for-">[details]</a> <a href="https://pure.tue.nl/ws/portalfiles/portal/123479221/MCAA_poster_Sajid.pdf">[poster]</a>
 
 ## Others
 
-[2] Dip Goswami, Sajid Mohamed, and Sayandip De, &quot;Tradeoff analysis between Quality-of-Control and degree of approximate computing for image-based control systems,&quot; <i>In Proceedings of Summer School on Cyber-Physical Systems and Internet-of-Things (CPS&IoT), Vol. I, MECOnet,</i> 2019. <a href="https://www.researchgate.net/publication/333811037_Proceedings_of_CPSIoT2019_Cyber_Physical_Systems_and_Internet_of_Things">[details]</a> <a href="http://sajid-mohamed.github.io/files/CPSIoTTutorial.pptx">[slides]</a>
+[2]. Dip Goswami, Sajid Mohamed, and Sayandip De, &quot;Tradeoff analysis between Quality-of-Control and degree of approximate computing for image-based control systems,&quot; <i>In Proceedings of Summer School on Cyber-Physical Systems and Internet-of-Things (CPS&IoT), Vol. I, MECOnet,</i> 2019. <a href="https://www.researchgate.net/publication/333811037_Proceedings_of_CPSIoT2019_Cyber_Physical_Systems_and_Internet_of_Things">[details]</a> <a href="http://sajid-mohamed.github.io/files/CPSIoTTutorial.pptx">[slides]</a>
 
-[1] Contributor, &quot;The Future of European Research Funding – Statement on the Framework Programme 9 by the Marie Curie Alumni Association,&quot; March 2018.
+[1]. Contributor, &quot;The Future of European Research Funding – Statement on the Framework Programme 9 by the Marie Curie Alumni Association,&quot; March 2018.
