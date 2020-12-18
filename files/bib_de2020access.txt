@@ -1,0 +1,9 @@
+@article{de2020access,
+  title={Approximation-Aware Design of an Image-Based Control System},
+  author={De, Sayandip and Mohamed, Sajid and Goswami, Dip and Corporaal, Henk},
+  journal={IEEE Access},
+  volume={8},
+  pages={174568--174586},
+  year={2020},
+  publisher={IEEE}
+}

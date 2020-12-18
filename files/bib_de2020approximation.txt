@@ -1,0 +1,8 @@
+@inproceedings{de2020approximation,
+  title={Approximation trade offs in an image-based control system},
+  author={De, Sayandip and Mohamed, Sajid and Bimpisidis, Konstantinos and Goswami, Dip and Basten, Twan and Corporaal, Henk},
+  booktitle={Design, Automation \& Test in Europe Conference \& Exhibition (DATE)},
+  pages={1680--1685},
+  year={2020},
+  organization={IEEE}
+}

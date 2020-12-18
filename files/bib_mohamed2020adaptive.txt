@@ -1,0 +1,6 @@
+@inproceedings{mohamed2020adaptive,
+  title={Adaptive predictive control for pipelined multiprocessor image-based control systems considering workload variations},
+  author={Mohamed, Sajid and Saraf, Nilay and Bernardini, Daniele and Goswami, Dip and Basten, Twan and Bemporad, Alberto},
+  booktitle={59th IEEE Conference on Decision and Control (CDC)},
+  year={2020}
+}
