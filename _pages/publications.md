@@ -21,7 +21,7 @@ Citations: 30, h-index: 4, i10-index: 1.
 
 ## Conferences
 
-4. Sajid Mohamed, Nilay Saraf, Daniele Bernardini, Dip Goswami, Twan Basten, and Alberto Bemporad, &quot;Adaptive predictive control for pipelined multiprocessor image-based control systems considering workload variations,&quot; <i>In IEEE 59th Conference on Decision and Control (CDC)</i>, 2020. <a href="https://sajid-mohamed.github.io/files/2020CDCmohamed.pdf">[pdf]</a> <a href="https://youtu.be/q1OrkSAIabo">[video]</a> <a href="https://sajid-mohamed.github.io/files/CDC20SMohamedv2.pptx">[slides]</a> <a href="http://sajid-mohamed.github.io/files/bib_mohamed2020adaptive.txt">[bibtex]</a>
+1. Sajid Mohamed, Nilay Saraf, Daniele Bernardini, Dip Goswami, Twan Basten, and Alberto Bemporad, &quot;Adaptive predictive control for pipelined multiprocessor image-based control systems considering workload variations,&quot; <i>In IEEE 59th Conference on Decision and Control (CDC)</i>, 2020. <a href="https://sajid-mohamed.github.io/files/2020CDCmohamed.pdf">[pdf]</a> <a href="https://youtu.be/q1OrkSAIabo">[video]</a> <a href="https://sajid-mohamed.github.io/files/CDC20SMohamedv2.pptx">[slides]</a> <a href="http://sajid-mohamed.github.io/files/bib_mohamed2020adaptive.txt">[bibtex]</a>
 
 5. Sayandip De, Sajid Mohamed, Konstantinos Bimpisidis, Dip Goswami, Twan Basten, and Henk Corporaal, &quot;Approximation trade offs in an image-based control system,&quot; <i>In Design, Automation and Test in Europe Conference (DATE)</i>, 2020. <a href="https://sajid-mohamed.github.io/files/DATE2020paper.pdf">[paper]</a> <a href="https://sajid-mohamed.github.io/files/DATE2020slides.pdf">[slides]</a> <a href="http://sajid-mohamed.github.io/files/bib_de2020approximation.txt">[bibtex]</a>
 
