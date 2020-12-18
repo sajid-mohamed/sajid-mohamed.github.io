@@ -1,5 +1,5 @@
 @inproceedings{zamani2016scheduling,
-   title={Scheduling of controllers’ update-rates for residual bandwidth utilization},
+   title={Scheduling of controllers\â€™ update-rates for residual bandwidth utilization},
    author={Zamani, Majid and Dey, Soumyajit and Mohamed, Sajid and Dasgupta, Pallab and Mazo, Manuel},
    booktitle={International Conference on Formal Modeling and Analysis of Timed Systems (FORMATS)},
    pages={85--101},
