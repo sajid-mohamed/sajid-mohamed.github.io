@@ -36,7 +36,7 @@ Teaching
 ======
 * 5LIJ0 Embedded Control Systems, Eindhoven University of Technology
   * Semester B 2019/20
-  * Semester B 2018/19 - awarded the 'Excellent Course Evaluation'
+  * Semester B 2018/19 - awarded the **'Excellent Course Evaluation'**
   * Semester B 2017/18
   * Semester B 2016/17
 * 5XIC0 Systems Engineering, Eindhoven University of Technology
