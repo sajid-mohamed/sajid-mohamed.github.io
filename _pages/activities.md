@@ -13,7 +13,8 @@ Students
   1. Yongqing (ongoing)
   2. Rahul Ramesh (ongoing)
   3. Mingyu An (ongoing)
-  4. Chaolun Ma (ongoing)
+  4. Chaolun Ma
+     * Online model identification and runtime adaptation of a closed-loop control system.<br/> Defended thesis on 12/01/2021.
   5. [Yingkai Huang](https://www.linkedin.com/in/yingkai-huang-54506a202/)
      * Study of Dynamically Reconfigurable Algorithmic Approximation on Quality of Control.<br/> Defended thesis on 16/12/2020.
   6. [Varun Shankar](https://www.linkedin.com/in/varun-sankar-79697778/) 
