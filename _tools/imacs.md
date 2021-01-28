@@ -61,5 +61,5 @@ Yingkai Huang <br/>
 Chaolun Ma
 
 ## Contact
-[s.mohamed@tue.nl](mailto:s.mohamed@tue.nl)
+[s.mohamed@tue.nl](mailto:s.mohamed@tue.nl) <br/>
 [Dip Goswami, Assistant Professor, Eindhoven University of Technology](mailto:d.goswami@tue.nl)
