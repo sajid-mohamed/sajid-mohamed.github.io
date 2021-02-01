@@ -52,13 +52,13 @@ The controllers for the LKAS are designed based on the concepts described in the
 
 ## Developers
 
-Sajid Mohamed <br/>
-Sayandip De <br/>
-Konstantinos Bimpisidis <br/>
-Vishak Nathan <br/>
-Diqing Zhu <br/>
-Yingkai Huang <br/>
-Chaolun Ma
+[Sajid Mohamed](https://sajid-mohamed.github.io/) <br/>
+[Sayandip De](https://www.linkedin.com/in/sayandip-de-b27215a1) <br/>
+[Konstantinos Bimpisidis](https://www.linkedin.com/in/kbimpisidis) <br/>
+[Vishak Nathan](https://www.linkedin.com/in/vishak-nathan-b65975a3) <br/>
+[Diqing Zhu](https://www.linkedin.com/in/diqing) <br/>
+[Yingkai Huang](https://www.linkedin.com/in/yingkai-huang-54506a202/) <br/>
+[Chaolun Ma](https://www.linkedin.com/in/chaolun-m-987165154/)
 
 ## Contact
 [Sajid Mohamed, Researcher, Eindhoven University of Technology](mailto:s.mohamed@tue.nl) <br/>
