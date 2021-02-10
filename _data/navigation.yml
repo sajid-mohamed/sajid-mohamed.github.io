@@ -1,19 +1,42 @@
 # main links links
+# main links links
 main:
-  - title: "CV"
-    url: /cv/
-    
+
+  - title: "Home"
+    url: /
+
   - title: "Publications"
     url: /publications/
 
-  #- title: "Talks"
-  #  url: /talks/    
+  - title: "Teaching"
+    url: /teaching/ 
+    
+  - title: "Supervision"
+    url: /supervision/
+    
+  - title: "Awards"
+    url: /awards/
 
-  - title: "Activities"
-    url: /activities/    
-           
-  - title: "Tools"
+  - title: "Services"
+    url: /services/
+    
+  - title: "Software"
     url: /tools/
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+    
+  # - title: "CV"
+  #   url: /cv/
+    
+  # - title: "Guide"
+  #   url: /markdown/
+
+
+  #- title: "Activities"
+  #  url: /activities/    
+           
+
     
 
     
