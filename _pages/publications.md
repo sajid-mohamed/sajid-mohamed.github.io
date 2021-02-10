@@ -7,34 +7,45 @@ author_profile: true
 
 {% include base_path %}
 
-[My Google Scholar profile](https://scholar.google.com/citations?user=z5ztMYAAAAAJ&hl=en).
-Citations: 31, h-index: 4, i10-index: 1.
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=z5ztMYAAAAAJ&hl=en).
+Citations: 34, h-index: 4, i10-index: 1.
 
-## Journals - 3
+<style>
+p { margin-bottom: 0px; }
+</style>
 
-1. Sayandip De, Sajid Mohamed, Dip Goswami, and Henk Corporaal, &quot;Approximation-Aware Design of an Image-Based Control System,&quot; <i>In IEEE Access</i>, 2020.  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9189775">[pdf]</a> <a href="http://sajid-mohamed.github.io/files/bib_de2020access.txt">[bibtex]</a>
 
-2. Sajid Mohamed, Dip Goswami, Vishak Nathan, Raghu Rajappa, and Twan Basten, &quot;A scenario-and platform-aware design flow for image-based control systems,&quot; <i>In Microprocessors and Microsystems (MICPRO)</i>, 2020. <a href="https://doi.org/10.1016/j.micpro.2020.103037">[DOI]</a> <a href="https://sajid-mohamed.github.io/files/103037preprint.pdf">[pdf]</a> <a href="http://sajid-mohamed.github.io/files/bib_mohamed2020scenario.txt">[bibtex]</a>
+<font face="helvetica" size="2">
+<p><i>Last updated on February 2021</i></p></font>
 
-3. Majid Zamani, Soumyajit Dey, Sajid Mohamed, Pallab Dasgupta, and Manuel Mazo Jr., &quot;Scheduling of Controllers' Update-Rates for Residual Bandwidth Utilization,&quot; <i>In International Conference on Formal Modeling and Analysis of Timed Systems (FORMATS)</i>, 2016. <a href="https://doi.org/10.1007/978-3-319-44878-7_6">[DOI]</a> <a href="http://sajid-mohamed.github.io/files/bib_formats.txt">[bibtex]</a>
+<font face="helvetica" color="#A93226" size="4">
+<p>Journals</p></font>
+
+<font face="helvetica" size="3"> 
+
+1. Sayandip De,<b> Sajid Mohamed</b>, Dip Goswami, and Henk Corporaal, &quot;Approximation-Aware Design of an Image-Based Control System,&quot; <i>In IEEE Access</i>, 2020. <a href="http://sajid-mohamed.github.io/files/bib_de2020access.txt">[bibtex]</a><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9189775"><img src="/images/download.png" height="10" width="20"></a>
+
+2. Sajid Mohamed, Dip Goswami, Vishak Nathan, Raghu Rajappa, and Twan Basten, &quot;A scenario-and platform-aware design flow for image-based control systems,&quot; <i>In Microprocessors and Microsystems (MICPRO)</i>, 2020. <a href="https://doi.org/10.1016/j.micpro.2020.103037">[DOI]</a> <a href="http://sajid-mohamed.github.io/files/bib_mohamed2020scenario.txt">[bibtex]</a> <a href="https://sajid-mohamed.github.io/files/103037preprint.pdf"><img src="/images/download.png" height="10" width="20"></a>
+
+3. Majid Zamani, Soumyajit Dey, <b>Sajid Mohamed</b>, Pallab Dasgupta, and Manuel Mazo Jr., &quot;Scheduling of Controllers' Update-Rates for Residual Bandwidth Utilization,&quot; <i>In International Conference on Formal Modeling and Analysis of Timed Systems (FORMATS)</i>, 2016. <a href="https://doi.org/10.1007/978-3-319-44878-7_6">[DOI]</a> <a href="http://sajid-mohamed.github.io/files/bib_formats.txt">[bibtex]</a>
 
 
 ## Conferences - 7
 
-1. Sayandip De, Yingkai Huang, Sajid Mohamed, Dip Goswami, and Henk Corporaal, &quot;Hardware- and Situation-Aware Sensing for Robust
-Closed-Loop Control Systems,&quot; <i>In Design, Automation and Test in Europe Conference (DATE)</i>, 2021. <a href="https://sajid-mohamed.github.io/files/DATE2021paper.pdf">[paper]</a>
+1. Sayandip De, Yingkai Huang, <b>Sajid Mohamed</b>, Dip Goswami, and Henk Corporaal, &quot;Hardware- and Situation-Aware Sensing for Robust
+Closed-Loop Control Systems,&quot; <i>In Design, Automation and Test in Europe Conference (DATE)</i>, 2021. <a href="https://sajid-mohamed.github.io/files/DATE2021paper.pdf"><img src="/images/download.png" height="10" width="20"></a>
 
-2. Sajid Mohamed, Nilay Saraf, Daniele Bernardini, Dip Goswami, Twan Basten, and Alberto Bemporad, &quot;Adaptive predictive control for pipelined multiprocessor image-based control systems considering workload variations,&quot; <i>In IEEE 59th Conference on Decision and Control (CDC)</i>, 2020. <a href="https://sajid-mohamed.github.io/files/2020CDCmohamed.pdf">[pdf]</a> <a href="https://youtu.be/q1OrkSAIabo">[video]</a> <a href="https://sajid-mohamed.github.io/files/CDC20SMohamedv2.pptx">[slides]</a> <a href="http://sajid-mohamed.github.io/files/bib_mohamed2020adaptive.txt">[bibtex]</a>
+2. Sajid Mohamed, Nilay Saraf, Daniele Bernardini, Dip Goswami, Twan Basten, and Alberto Bemporad, &quot;Adaptive predictive control for pipelined multiprocessor image-based control systems considering workload variations,&quot; <i>In IEEE 59th Conference on Decision and Control (CDC)</i>, 2020. <a href="https://youtu.be/q1OrkSAIabo">[video]</a> <a href="https://sajid-mohamed.github.io/files/CDC20SMohamedv2.pptx">[slides]</a> <a href="http://sajid-mohamed.github.io/files/bib_mohamed2020adaptive.txt">[bibtex]</a> <a href="https://sajid-mohamed.github.io/files/2020CDCmohamed.pdf"><img src="/images/download.png" height="10" width="20"></a> 
 
-3. Sayandip De, Sajid Mohamed, Konstantinos Bimpisidis, Dip Goswami, Twan Basten, and Henk Corporaal, &quot;Approximation trade offs in an image-based control system,&quot; <i>In Design, Automation and Test in Europe Conference (DATE)</i>, 2020. <a href="https://sajid-mohamed.github.io/files/DATE2020paper.pdf">[paper]</a> <a href="https://sajid-mohamed.github.io/files/DATE2020slides.pdf">[slides]</a> <a href="http://sajid-mohamed.github.io/files/bib_de2020approximation.txt">[bibtex]</a>
+3. Sayandip De, <b>Sajid Mohamed</b>, Konstantinos Bimpisidis, Dip Goswami, Twan Basten, and Henk Corporaal, &quot;Approximation trade offs in an image-based control system,&quot; <i>In Design, Automation and Test in Europe Conference (DATE)</i>, 2020. <a href="https://sajid-mohamed.github.io/files/DATE2020slides.pdf">[slides]</a> <a href="http://sajid-mohamed.github.io/files/bib_de2020approximation.txt">[bibtex]</a> <a href="https://sajid-mohamed.github.io/files/DATE2020paper.pdf"><img src="/images/download.png" height="10" width="20"></a>
 
-3. Sajid Mohamed, Asad Ullah Awan, Dip Goswami, and Twan Basten, &quot;Designing image-based control systems considering workload variations,&quot; <i>In IEEE 58th Conference on Decision and Control (CDC)</i>, 2019. <a href="https://pure.tue.nl/ws/portalfiles/portal/144403064/CDC_cam_ready.pdf">[pdf]</a> <a href="https://sajid-mohamed.github.io/files/CDC19SMohamed.pptx">[slides]</a> <a href="http://sajid-mohamed.github.io/files/bib_mohamed2019designing.txt">[bibtex]</a>
+3. Sajid Mohamed, Asad Ullah Awan, Dip Goswami, and Twan Basten, &quot;Designing image-based control systems considering workload variations,&quot; <i>In IEEE 58th Conference on Decision and Control (CDC)</i>, 2019. <a href="https://sajid-mohamed.github.io/files/CDC19SMohamed.pptx">[slides]</a> <a href="http://sajid-mohamed.github.io/files/bib_mohamed2019designing.txt">[bibtex]</a> <a href="https://pure.tue.nl/ws/portalfiles/portal/144403064/CDC_cam_ready.pdf"><img src="/images/download.png" height="10" width="20"></a>
 
-4. Sajid Mohamed, Sayandip De, Konstantinos Bimpisidis, Vishak Nathan, Dip Goswami, Henk Corporaal, and Twan Basten, &quot;IMACS: a framework for performance evaluation of image approximation in a closed-loop system,&quot; <i>In 8th Mediterranean Conference on Embedded Computing (MECO)</i>, 2019. <a href="https://pure.tue.nl/ws/portalfiles/portal/131905081/IMACS.pdf">[pdf]</a> <a href="https://sajid-mohamed.github.io/files/IMACS_.pptx">[slides]</a> <a href="https://sajid-mohamed.github.io/tools/imacs/">[details]</a> <a href="http://sajid-mohamed.github.io/files/bib_mohamed2019imacs.txt">[bibtex]</a>
+4. Sajid Mohamed, Sayandip De, Konstantinos Bimpisidis, Vishak Nathan, Dip Goswami, Henk Corporaal, and Twan Basten, &quot;IMACS: a framework for performance evaluation of image approximation in a closed-loop system,&quot; <i>In 8th Mediterranean Conference on Embedded Computing (MECO)</i>, 2019. <a href="https://sajid-mohamed.github.io/files/IMACS_.pptx">[slides]</a> <a href="https://sajid-mohamed.github.io/tools/imacs/">[details]</a> <a href="http://sajid-mohamed.github.io/files/bib_mohamed2019imacs.txt">[bibtex]</a> <a href="https://pure.tue.nl/ws/portalfiles/portal/131905081/IMACS.pdf"><img src="/images/download.png" height="10" width="20"></a>
 
-5. Sajid Mohamed, Diqing Zhu, Dip Goswami, and Twan Basten, &quot;Optimising Quality-of-Control for Data-intensive Multiprocessor Image-Based Control Systems considering Workload Variations,&quot; <i>In Digital System Design (DSD)</i>, 2018. <a href="https://pure.tue.nl/ws/portalfiles/portal/145692692/PID5432947.pdf">[pdf]</a> <a href="https://sajid-mohamed.github.io/files/SPADe_DSD2018v2.pptx">[slides]</a> <a href="http://sajid-mohamed.github.io/files/bib_mohamed2018optimising.txt">[bibtex]</a>
+5. Sajid Mohamed, Diqing Zhu, Dip Goswami, and Twan Basten, &quot;Optimising Quality-of-Control for Data-intensive Multiprocessor Image-Based Control Systems considering Workload Variations,&quot; <i>In Digital System Design (DSD)</i>, 2018. <a href="https://sajid-mohamed.github.io/files/SPADe_DSD2018v2.pptx">[slides]</a> <a href="http://sajid-mohamed.github.io/files/bib_mohamed2018optimising.txt">[bibtex]</a> <a href="https://pure.tue.nl/ws/portalfiles/portal/145692692/PID5432947.pdf"><img src="/images/download.png" height="10" width="20"></a>
 
-6. Martin Becker, Sajid Mohamed, Karsten Albers, Partha Pratim Chakrabarti, Samarjit Chakraborty, Pallab Dasgupta, Soumyajit Dey, and Ravindra Metta, &quot;Timing Analysis of Safety-Critical Automotive Software: The AUTOSAFE Tool Flow,&quot; <i> In Asia-Pacific Software Engineering Conference (APSEC)</i>, 2015. <a href="http://sajid-mohamed.github.io/files/AUTOSAFE.pdf">[pdf]</a> <a href="http://sajid-mohamed.github.io/files/AUTOSAFE_APSEC_2015.pptx">[slides]</a> <a href="http://sajid-mohamed.github.io/files/bib_autosafe.txt">[bibtex]</a>
+6. Martin Becker, <b>Sajid Mohamed</b>, Karsten Albers, Partha Pratim Chakrabarti, Samarjit Chakraborty, Pallab Dasgupta, Soumyajit Dey, and Ravindra Metta, &quot;Timing Analysis of Safety-Critical Automotive Software: The AUTOSAFE Tool Flow,&quot; <i> In Asia-Pacific Software Engineering Conference (APSEC)</i>, 2015. <a href="http://sajid-mohamed.github.io/files/AUTOSAFE_APSEC_2015.pptx">[slides]</a> <a href="http://sajid-mohamed.github.io/files/bib_autosafe.txt">[bibtex]</a> <a href="http://sajid-mohamed.github.io/files/AUTOSAFE.pdf"><img src="/images/download.png" height="10" width="20"></a>
 
 ## (Extended) Abstracts and Posters - 2
 
