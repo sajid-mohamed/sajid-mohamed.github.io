@@ -14,11 +14,11 @@ main:
   - title: "Supervision"
     url: /supervision/
     
-  - title: "Awards"
-    url: /awards/
+#  - title: "Awards"
+#    url: /awards/
 
-  - title: "Services"
-    url: /services/
+ # - title: "Services"
+ #   url: /services/
     
   - title: "Software"
     url: /tools/
