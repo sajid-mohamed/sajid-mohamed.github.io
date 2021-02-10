@@ -1,14 +1,11 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
 {% include base_path %}
-
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=z5ztMYAAAAAJ&hl=en).
-Citations: 34, h-index: 4, i10-index: 1.
 
 <style>
 p { margin-bottom: 0px; }
@@ -17,6 +14,10 @@ p { margin-bottom: 0px; }
 
 <font face="helvetica" size="2">
 <p><i>Last updated on February 2021</i></p></font>
+
+<font face="helvetica" size="3">
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=z5ztMYAAAAAJ&hl=en).
+Citations: 34, h-index: 4, i10-index: 1.
 
 <font face="helvetica" color="#A93226" size="4">
 <p>Journals</p></font>
