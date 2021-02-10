@@ -29,9 +29,12 @@ p { margin-bottom: 0px; }
 
 3. Majid Zamani, Soumyajit Dey, <b>Sajid Mohamed</b>, Pallab Dasgupta, and Manuel Mazo Jr., &quot;Scheduling of Controllers' Update-Rates for Residual Bandwidth Utilization,&quot; <i>In International Conference on Formal Modeling and Analysis of Timed Systems (FORMATS)</i>, 2016. <a href="https://doi.org/10.1007/978-3-319-44878-7_6">[DOI]</a> <a href="http://sajid-mohamed.github.io/files/bib_formats.txt">[bibtex]</a>
 
+</font><br>
 
-## Conferences - 7
+<font face="helvetica" color="#A93226" size="4">
+<p>Conferences</p></font>
 
+<font face="helvetica" size="3">
 1. Sayandip De, Yingkai Huang, <b>Sajid Mohamed</b>, Dip Goswami, and Henk Corporaal, &quot;Hardware- and Situation-Aware Sensing for Robust
 Closed-Loop Control Systems,&quot; <i>In Design, Automation and Test in Europe Conference (DATE)</i>, 2021. <a href="https://sajid-mohamed.github.io/files/DATE2021paper.pdf"><img src="/images/download.png" height="10" width="20"></a>
 
@@ -47,13 +50,26 @@ Closed-Loop Control Systems,&quot; <i>In Design, Automation and Test in Europe C
 
 6. Martin Becker, <b>Sajid Mohamed</b>, Karsten Albers, Partha Pratim Chakrabarti, Samarjit Chakraborty, Pallab Dasgupta, Soumyajit Dey, and Ravindra Metta, &quot;Timing Analysis of Safety-Critical Automotive Software: The AUTOSAFE Tool Flow,&quot; <i> In Asia-Pacific Software Engineering Conference (APSEC)</i>, 2015. <a href="http://sajid-mohamed.github.io/files/AUTOSAFE_APSEC_2015.pptx">[slides]</a> <a href="http://sajid-mohamed.github.io/files/bib_autosafe.txt">[bibtex]</a> <a href="http://sajid-mohamed.github.io/files/AUTOSAFE.pdf"><img src="/images/download.png" height="10" width="20"></a>
 
-## (Extended) Abstracts and Posters - 2
+</font><br>
 
+<font face="helvetica" color="#A93226" size="4">
+<p>(Extended) Abstracts and Posters</p></font>
+
+
+<font face="helvetica" size="3">
 1. Sajid Mohamed, Dip Goswami, and Twan Basten, &quot;Bridging the controller design-implementation gap for image-based control systems,&quot; <i>In ICT.OPEN2019,  Hilversum, Netherlands</i>. <a href="https://pure.tue.nl/ws/portalfiles/portal/123479680/ICTOPEN2019_abstract_32_1_.pdf">[extendedAbstract]</a> <a href="https://pure.tue.nl/ws/portalfiles/portal/123479426/MohamedS_Poster2_ICTOPEN19.pdf">[poster]</a>
 
 2. Sajid Mohamed, Diqing Zhu, Dip Goswami, and Twan Basten, &quot;DASA: An open-source design, analysis and simulation framework for automotive image-based control systems,&quot; <i>In 6th MCAA Annual Conference, Vienna, Austria</i>, 2019. <a href="https://research.tue.nl/en/publications/dasa-an-open-source-design-analysis-and-simulation-framework-for-">[details]</a> <a href="https://pure.tue.nl/ws/portalfiles/portal/123479221/MCAA_poster_Sajid.pdf">[poster]</a>
 
-## Others - 2
+</font><br>
+
+
+
+<font face="helvetica" color="#A93226" size="4">
+<p>Others</p></font>
+
+
+<font face="helvetica" size="3">
 
 1. Dip Goswami, Sajid Mohamed, and Sayandip De, &quot;Tradeoff analysis between Quality-of-Control and degree of approximate computing for image-based control systems,&quot; <i>In Proceedings of Summer School on Cyber-Physical Systems and Internet-of-Things (CPS&IoT), Vol. I, MECOnet,</i> 2019. <a href="https://www.researchgate.net/publication/333811037_Proceedings_of_CPSIoT2019_Cyber_Physical_Systems_and_Internet_of_Things">[details]</a> <a href="http://sajid-mohamed.github.io/files/CPSIoTTutorial.pptx">[slides]</a>
 
