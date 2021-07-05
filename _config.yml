@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sajid Mohamed"
 title_separator          : "-"
 name                     : &name "Sajid Mohamed"
-description              : &description "Researcher at Eindhoven University of Technology"
+description              : &description "Principal Software Engineer - R&D Innovation, ITEC, Nexperia"
 url                      : https://sajid-mohamed.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sajid-mohamed.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=z5ztMYAAAAAJ&hl=en"
-  email            : "S.Mohamed@tue.nl"
+  email            : "Sajid.Mohamed@nexperia.com"
   researchgate     : "https://www.researchgate.net/profile/Sajid_Mohamed3"
   uri              :
   bitbucket        :
