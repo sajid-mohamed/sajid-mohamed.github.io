@@ -10,7 +10,9 @@ redirect_from:
 
 <!-- <font face="helvetica" size="3"><p align="justify">Hi, this is my official website!</p></font> -->
 
-I am a doctoral candidate in the [Electronic Systems group](https://www.tue.nl/en/research/research-groups/electronic-systems/) of the Department of Electrical Engineering at [Eindhoven University of Technology (TU/e)](https://www.tue.nl/en/). My current research focuses on the model-based design of image-based control systems in resource-constrained domains such as automotive. I am currently part of the [FitOptiVis](https://fitoptivis.eu/) project and was an Early-Stage Researcher in the [oCPS](http://ocps-itn.eu/) project.
+I am a pricipal software engineer at ITEC, Nexperia from July 2021.
+
+Prior to that I was a doctoral candidate in the [Electronic Systems group](https://www.tue.nl/en/research/research-groups/electronic-systems/) of the Department of Electrical Engineering at [Eindhoven University of Technology (TU/e)](https://www.tue.nl/en/). My doctoral research focused on the model-based design of image-based control systems in resource-constrained domains such as automotive. I was part of the [FitOptiVis](https://fitoptivis.eu/) project and was an Early-Stage Researcher in the [oCPS](http://ocps-itn.eu/) project.
 
 I graduated as an electrical & electronics engineer with a passion for embedded systems, robotics, microprocessors and microcontrollers from [National Insitute of Technology (NIT) Calicut](http://nitc.ac.in/) in 2012.
 
@@ -19,7 +21,7 @@ I was then awarded the prestigious DAAD scholarship to pursue my masters' thesis
 
 I realised my love for research and decided to pursue my career in research. After post graduation, I continued to work on the AUTOSAFE project until its completion. I came across challenging problems faced in the formal validation and certification of automotive systems and learned of more fundamental issues faced in cyber-physical system design.
 
-An opportunity to research in this direction arose with the oCPS (Platform-aware Model-driven Optimization of Cyber-Physical Systems) project, which I gladly accepted. After the successful completion of this project, I have been working in the FitOptiVis (From the cloud to the edge – smart IntegraTion and OPtimisation Technologies for highly efficient Image and VIdeo processing Systems) project from November 2019.
+An opportunity to research in this direction arose with the oCPS (Platform-aware Model-driven Optimization of Cyber-Physical Systems) project, which I gladly accepted. After the successful completion of this project, I worked in the FitOptiVis (From the cloud to the edge – smart IntegraTion and OPtimisation Technologies for highly efficient Image and VIdeo processing Systems) project from November 2019 to May 2021.
 
 <style>
 img {
@@ -41,7 +43,7 @@ img {
 
 <font color="black">
   <p><img src="/images/tue.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
-University Researcher <br>Electronic Systems Group, Eindhoven University of Technology <br> <font size="2"> 2020 - present</font></p><hr>
+University Researcher <br>Electronic Systems Group, Eindhoven University of Technology <br> <font size="2"> 2020 - 2021</font></p><hr>
 
 <p><img src="/images/tue.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
 Early-Stage Researcher <br>Electronic Systems Group, Eindhoven University of Technology <br>  <font size="2">2016 - 2020</font></p><hr>
