@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- <font face="helvetica" size="3"><p align="justify">Hi, this is my official website!</p></font> -->
 
-I am a pricipal software engineer at ITEC, Nexperia from July 2021.
+I am a Principal Software Engineer (R&D Innovation) at ITEC, Nexperia from July 2021.
 
 Prior to that I was a doctoral candidate in the [Electronic Systems group](https://www.tue.nl/en/research/research-groups/electronic-systems/) of the Department of Electrical Engineering at [Eindhoven University of Technology (TU/e)](https://www.tue.nl/en/). My doctoral research focused on the model-based design of image-based control systems in resource-constrained domains such as automotive. I was part of the [FitOptiVis](https://fitoptivis.eu/) project and was an Early-Stage Researcher in the [oCPS](http://ocps-itn.eu/) project.
 
@@ -42,6 +42,9 @@ img {
   <font face="helvetica" size="5">Professional Experience</font> <br><br>
 
 <font color="black">
+    <p><img src="/images/itec.jpg" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
+Principal Software Engineer (R&D innovation) <br>ITEC, Nexperia <br> <font size="2"> 2021 - present</font></p><hr>
+  
   <p><img src="/images/tue.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
 University Researcher <br>Electronic Systems Group, Eindhoven University of Technology <br> <font size="2"> 2020 - 2021</font></p><hr>
 
