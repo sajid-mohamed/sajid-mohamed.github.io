@@ -1,0 +1,6 @@
+@inproceedings{de2021hardware,
+  title={Hardware- and Situation-Aware Sensing for Robust Closed-Loop Control Systems},
+  author={De, Sayandip and Huang, Yingkai and Mohamed, Sajid and Goswami, Dip and Corporaal, Henk},
+  booktitle={Design, Automation and Test in Europe Conference (DATE)},
+  year={2021}
+}
