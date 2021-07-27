@@ -13,7 +13,7 @@ p { margin-bottom: 0px; }
 
 
 <font face="helvetica" size="2">
-<p><i>Last updated on February 2021</i></p></font>
+<p><i>Last updated on July 2021</i></p></font>
 
 
 
