@@ -20,7 +20,9 @@ p { margin-bottom: 0px; }
 <font face="helvetica" color="#A93226" size="4">
 <p>Journals</p></font>
 
-<font face="helvetica" size="3"> 
+<font face="helvetica" size="3">
+
+<p>4. Sajid Mohamed, Dip Goswami, Sayandip De, and Twan Basten, &quot;Optimising Multiprocessor Image-Based Control Through Pipelining and Parallelism,&quot; (to appear)<i> In IEEE Access</i>, 202x.
 
 <p>3. Sayandip De,<b> Sajid Mohamed</b>, Dip Goswami, and Henk Corporaal, &quot;Approximation-Aware Design of an Image-Based Control System,&quot; <i>In IEEE Access</i>, 2020. <a href="http://sajid-mohamed.github.io/files/bib_de2020access.txt" target="_blank">[bibtex]</a><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9189775" target="_blank"><img src="/images/download.png" height="10" width="20"></a></p>
 
@@ -35,7 +37,7 @@ p { margin-bottom: 0px; }
 
 <font face="helvetica" size="3">
 <p>7. Sayandip De, Yingkai Huang, <b>Sajid Mohamed</b>, Dip Goswami, and Henk Corporaal, &quot;Hardware- and Situation-Aware Sensing for Robust
-Closed-Loop Control Systems,&quot; <i>In Design, Automation and Test in Europe Conference (DATE)</i>, 2021. <a href="https://sajid-mohamed.github.io/files/DATE2021paper.pdf" target="_blank"><img src="/images/download.png" height="10" width="20"></a></p>
+Closed-Loop Control Systems,&quot; <i>In Design, Automation and Test in Europe Conference (DATE)</i>, 2021.  <a href="http://sajid-mohamed.github.io/files/bib_de2021hardware.txt" target="_blank">[bibtex]</a> <a href="https://sajid-mohamed.github.io/files/DATE2021paper.pdf" target="_blank"><img src="/images/download.png" height="10" width="20"></a></p>
 
 <p>6. Sajid Mohamed, Nilay Saraf, Daniele Bernardini, Dip Goswami, Twan Basten, and Alberto Bemporad, &quot;Adaptive predictive control for pipelined multiprocessor image-based control systems considering workload variations,&quot; <i>In IEEE 59th Conference on Decision and Control (CDC)</i>, 2020. <a href="http://sajid-mohamed.github.io/files/bib_mohamed2020adaptive.txt" target="_blank">[bibtex]</a> <a href="https://sajid-mohamed.github.io/files/2020CDCmohamed.pdf" target="_blank"><img src="/images/download.png" height="10" width="20"></a><a href="https://sajid-mohamed.github.io/files/CDC20SMohamedv2.pptx" target="_blank"><img src="/images/slides.png" height="10" width="20"></a><a href="https://youtu.be/q1OrkSAIabo" target="_blank"><img src="/images/video.png" height="10" width="20"></a></p>
 
@@ -56,6 +58,8 @@ Closed-Loop Control Systems,&quot; <i>In Design, Automation and Test in Europe C
 
 
 <font face="helvetica" size="3">
+<p>1. Sajid Mohamed, Dip Goswami, and Twan Basten, &quot;Matlab2Trace: A Matlab to Trace translator to visualise and analyse concurrent system activities and execution traces,&quot; <i>In 8th MCAA Annual Conference, </i>, 2021. <a href="https://research.tue.nl/en/publications/matlab2trace-a-matlab-to-trace-translator-to-visualise-and-analys" target="_blank">[details]</a> <a href="https://zenodo.org/record/4650066#.YQALmajiuUk" target="_blank">[abstract]</a> <a href="https://pure.tue.nl/ws/portalfiles/portal/169227475/matlab2tracePoster.pdf" target="_blank">[poster]</a></p>
+  
 <p>2. Sajid Mohamed, Dip Goswami, and Twan Basten, &quot;Bridging the controller design-implementation gap for image-based control systems,&quot; <i>In ICT.OPEN2019,  Hilversum, Netherlands</i>. <a href="https://pure.tue.nl/ws/portalfiles/portal/123479680/ICTOPEN2019_abstract_32_1_.pdf" target="_blank">[extendedAbstract]</a> <a href="https://pure.tue.nl/ws/portalfiles/portal/123479426/MohamedS_Poster2_ICTOPEN19.pdf" target="_blank">[poster]</a></p>
 
 <p>1. Sajid Mohamed, Diqing Zhu, Dip Goswami, and Twan Basten, &quot;DASA: An open-source design, analysis and simulation framework for automotive image-based control systems,&quot; <i>In 6th MCAA Annual Conference, Vienna, Austria</i>, 2019. <a href="https://research.tue.nl/en/publications/dasa-an-open-source-design-analysis-and-simulation-framework-for-" target="_blank">[details]</a> <a href="https://pure.tue.nl/ws/portalfiles/portal/123479221/MCAA_poster_Sajid.pdf" target="_blank">[poster]</a></p>
