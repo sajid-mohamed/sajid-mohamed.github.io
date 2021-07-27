@@ -58,7 +58,7 @@ Closed-Loop Control Systems,&quot; <i>In Design, Automation and Test in Europe C
 
 
 <font face="helvetica" size="3">
-<p>1. Sajid Mohamed, Dip Goswami, and Twan Basten, &quot;Matlab2Trace: A Matlab to Trace translator to visualise and analyse concurrent system activities and execution traces,&quot; <i>In 8th MCAA Annual Conference, </i>, 2021. <a href="https://research.tue.nl/en/publications/matlab2trace-a-matlab-to-trace-translator-to-visualise-and-analys" target="_blank">[details]</a> <a href="https://zenodo.org/record/4650066#.YQALmajiuUk" target="_blank">[abstract]</a> <a href="https://pure.tue.nl/ws/portalfiles/portal/169227475/matlab2tracePoster.pdf" target="_blank">[poster]</a></p>
+<p>1. Sajid Mohamed, Dip Goswami, and Twan Basten, &quot;Matlab2Trace: A Matlab to Trace translator to visualise and analyse concurrent system activities and execution traces,&quot; <i>In 8th MCAA Annual Conference</i>, 2021. <a href="https://research.tue.nl/en/publications/matlab2trace-a-matlab-to-trace-translator-to-visualise-and-analys" target="_blank">[details]</a> <a href="https://zenodo.org/record/4650066#.YQALmajiuUk" target="_blank">[abstract]</a> <a href="https://pure.tue.nl/ws/portalfiles/portal/169227475/matlab2tracePoster.pdf" target="_blank">[poster]</a></p>
   
 <p>2. Sajid Mohamed, Dip Goswami, and Twan Basten, &quot;Bridging the controller design-implementation gap for image-based control systems,&quot; <i>In ICT.OPEN2019,  Hilversum, Netherlands</i>. <a href="https://pure.tue.nl/ws/portalfiles/portal/123479680/ICTOPEN2019_abstract_32_1_.pdf" target="_blank">[extendedAbstract]</a> <a href="https://pure.tue.nl/ws/portalfiles/portal/123479426/MohamedS_Poster2_ICTOPEN19.pdf" target="_blank">[poster]</a></p>
 
