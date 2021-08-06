@@ -30,8 +30,6 @@ p { margin-bottom: 0px; }
 
 <p>1. Majid Zamani, Soumyajit Dey, <b>Sajid Mohamed</b>, Pallab Dasgupta, and Manuel Mazo Jr., &quot;Scheduling of Controllers' Update-Rates for Residual Bandwidth Utilization,&quot; <i>In International Conference on Formal Modeling and Analysis of Timed Systems (FORMATS)</i>, 2016. <a href="https://doi.org/10.1007/978-3-319-44878-7_6" target="_blank">[DOI]</a> <a href="http://sajid-mohamed.github.io/files/bib_formats.txt" target="_blank">[bibtex]</a></p>
 
-</font><br>
-
 <font face="helvetica" color="#A93226" size="4">
 <p>Conferences</p></font>
 
