@@ -22,7 +22,7 @@ p { margin-bottom: 0px; }
 
 <font face="helvetica" size="3">
 
-<p>4. Sajid Mohamed, Dip Goswami, Sayandip De, and Twan Basten, &quot;Optimising Multiprocessor Image-Based Control Through Pipelining and Parallelism,&quot; (to appear)<i> In IEEE Access</i>, 202x.
+<p>4. Sajid Mohamed, Dip Goswami, Sayandip De, and Twan Basten, &quot;Optimising Multiprocessor Image-Based Control Through Pipelining and Parallelism,&quot;<i> In IEEE Access</i>, 2021. <a href="http://sajid-mohamed.github.io/files/bib_mohamed2021access.txt" target="_blank">[bibtex]</a><a href="https://doi.org/10.1109/ACCESS.2021.3103051" target="_blank"><img src="/images/download.png" height="10" width="20"></a></p>
 
 <p>3. Sayandip De,<b> Sajid Mohamed</b>, Dip Goswami, and Henk Corporaal, &quot;Approximation-Aware Design of an Image-Based Control System,&quot; <i>In IEEE Access</i>, 2020. <a href="http://sajid-mohamed.github.io/files/bib_de2020access.txt" target="_blank">[bibtex]</a><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9189775" target="_blank"><img src="/images/download.png" height="10" width="20"></a></p>
 
