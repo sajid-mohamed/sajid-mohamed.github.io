@@ -1,0 +1,9 @@
+@article{mohamed2021access,
+  title={Optimising Multiprocessor Image-Based Control Through Pipelining and Parallelism},
+  author={Mohamed, Sajid and Goswami, Dip and De, Sayandip and Basten, Twan},
+  journal={IEEE Access},
+  volume={9},
+  pages={112332--112358},
+  year={2021},
+  publisher={IEEE}
+}
