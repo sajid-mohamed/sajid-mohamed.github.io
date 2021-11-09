@@ -42,7 +42,7 @@ img {
   <font face="helvetica" size="5">Professional Experience</font> <br><br>
 
 <font color="black">
-    <p><img src="/images/itec.jpg" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
+    <p><img src="/images/ITEC.jpg" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
 Principal Software Engineer (R&D innovation) <br>ITEC, Nexperia <br> <font size="2"> 2021 - present</font></p><hr>
   
   <p><img src="/images/tue.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
