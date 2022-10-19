@@ -34,6 +34,8 @@ p { margin-bottom: 0px; }
 <p>Conferences</p></font>
 
 <font face="helvetica" size="3">
+<p>8. Chaitanya Jugade, Daniel Hartgers, Phan Duc Anh, <b>Sajid Mohamed</b>, Mojtaba Haghi, Dip Goswami, Andrew Nelson, Gijs van der Veen, and Kees Goossens, &quot;An Evaluation Framework for Vision-in-the-Loop Motion Control Systems,&quot; <i>In Emerging Technologies and Factory Automation (ETFA)</i>, 2022.</p>
+    
 <p>7. Sayandip De, Yingkai Huang, <b>Sajid Mohamed</b>, Dip Goswami, and Henk Corporaal, &quot;Hardware- and Situation-Aware Sensing for Robust
 Closed-Loop Control Systems,&quot; <i>In Design, Automation and Test in Europe Conference (DATE)</i>, 2021.  <a href="http://sajid-mohamed.github.io/files/bib_de2021hardware.txt" target="_blank">[bibtex]</a> <a href="https://sajid-mohamed.github.io/files/DATE2021paper.pdf" target="_blank"><img src="/images/download.png" height="10" width="20"></a></p>
 
