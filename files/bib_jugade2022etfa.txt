@@ -1,0 +1,9 @@
+@INPROCEEDINGS{jugade2022etfa,
+  author={Jugade, Chaitanya and Hartgers, Daniel and Anh, Phan Dúc and Mohamed, Sajid and Haghi, Mojtaba and Goswami, Dip and Nelson, Andrew and van der Veen, Gijs and Goossens, Kees},
+  booktitle={{IEEE 27th International Conference on Emerging Technologies and Factory Automation (ETFA)}}, 
+  title={An Evaluation Framework for Vision-in-the-Loop Motion Control Systems}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-4},
+  doi={10.1109/ETFA52439.2022.9921640}}
