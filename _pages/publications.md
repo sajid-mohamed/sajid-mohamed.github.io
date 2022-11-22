@@ -18,6 +18,12 @@ p { margin-bottom: 0px; }
 
 
 <font face="helvetica" color="#A93226" size="4">
+<p>Books</p></font>
+
+<font face="helvetica" size="3">
+<p>1. Sajid Mohamed, &quot;Multiprocessor Image-Based Control: Model-Driven Optimisation,&quot;<i> Eindhoven University of Technology</i>, 2022. <a href="https://github.com/sajid-mohamed/sajidPhDThesis" target="_blank"><img src="/images/github.png" height="10" width="20"> </a><a href=" https://sajid-mohamed.github.io/files/SajidMohamed__Thesis_final.pdf" target="_blank"><img src="/images/download.png" height="10" width="20"></a></p>
+    
+<font face="helvetica" color="#A93226" size="4">
 <p>Journals</p></font>
 
 <font face="helvetica" size="3">
