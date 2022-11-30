@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sajid Mohamed"
 title_separator          : "-"
 name                     : &name "Sajid Mohamed"
-description              : &description "Principal Software Engineer - R&D Innovation, ITEC, Nexperia"
+description              : &description "Principal Software Engineer - Innovation team, ITEC B.V."
 url                      : https://sajid-mohamed.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sajid-mohamed.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sajid Mohamed"
   avatar           : "resume.jpg"
-  bio              : "Principal Software Engineer, R&D Innovation, ITEC, Nexperia"
+  bio              : "Principal Software Engineer, Innovation team, ITEC B.V."
   location         : "Netherlands"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=z5ztMYAAAAAJ&hl=en"
-  email            : "Sajid.Mohamed@nexperia.com"
+  email            : "Sajid.Mohamed@itecequipment.com"
   researchgate     : "https://www.researchgate.net/profile/Sajid_Mohamed3"
   uri              :
   bitbucket        :
