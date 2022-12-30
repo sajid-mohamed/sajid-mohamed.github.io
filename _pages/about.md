@@ -64,7 +64,7 @@ Research Assistant <br>Advanced Technology Development Centre, Indian Institute 
   <font face="helvetica" size="5">Educational Qualification</font> <br><br>
 
 <p><img src="/images/tue.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
-PhD <br> Multiprocessor Image-Based Control: Model-Driven Optimisation <br> Electronic Systems Group, Eindhoven University of Technology <br> <font size="2">2022</font></p><hr>
+Doctor of Philosophy (PhD) <br> Multiprocessor Image-Based Control: Model-Driven Optimisation <br> Electronic Systems Group, Eindhoven University of Technology <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font size="2">2022</font></p><hr>
 
 <p><img src="/images/iit.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
 Master of Technology <br> Embedded Controls and Software <br> Advanced Technology Development Centre, Indian Institute of Technology Kharagpur <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font size="2">2012 - 2014</font></p><hr>
