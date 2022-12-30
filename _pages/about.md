@@ -12,7 +12,7 @@ redirect_from:
 
 I am a Principal Software Engineer (R&D Innovation) at ITEC, Nexperia from July 2021.
 
-Prior to that I was a doctoral candidate in the [Electronic Systems group](https://www.tue.nl/en/research/research-groups/electronic-systems/) of the Department of Electrical Engineering at [Eindhoven University of Technology (TU/e)](https://www.tue.nl/en/). My doctoral research focused on the model-based design of image-based control systems in resource-constrained domains such as automotive. I was part of the [FitOptiVis](https://fitoptivis.eu/) project and was an Early-Stage Researcher in the [oCPS](http://ocps-itn.eu/) project.
+Prior to that I was an early-stage researcher in the [Electronic Systems group](https://www.tue.nl/en/research/research-groups/electronic-systems/) of the Department of Electrical Engineering at [Eindhoven University of Technology (TU/e)](https://www.tue.nl/en/). My doctoral thesis was titled "Multiprocessor Image-Based Control: Model-Driven Optimisation". I was part of the [FitOptiVis](https://fitoptivis.eu/) project and was an Early-Stage Researcher in the [oCPS](http://ocps-itn.eu/) project.
 
 I graduated as an electrical & electronics engineer with a passion for embedded systems, robotics, microprocessors and microcontrollers from [National Insitute of Technology (NIT) Calicut](http://nitc.ac.in/) in 2012.
 
@@ -63,6 +63,8 @@ Research Assistant <br>Advanced Technology Development Centre, Indian Institute 
 <div class="boxed">
   <font face="helvetica" size="5">Educational Qualification</font> <br><br>
 
+<p><img src="/images/tue.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
+PhD <br> Multiprocessor Image-Based Control: Model-Driven Optimisation <br> Electronic Systems Group, Eindhoven University of Technology <br> <font size="2">2022</font></p><hr>
 
 <p><img src="/images/iit.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
 Master of Technology <br> Embedded Controls and Software <br> Advanced Technology Development Centre, Indian Institute of Technology Kharagpur <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font size="2">2012 - 2014</font></p><hr>
