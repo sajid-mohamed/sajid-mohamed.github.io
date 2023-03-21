@@ -88,3 +88,5 @@ Master of Technology <br> Embedded Controls and Software <br> Indian Institute o
 Bachelor of Technology <br> Department of Electrical and Electronics Engineering <br> National Institute of Technology Calicut <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font size="2">2008 - 2012</font></p><hr>
 </div>
 <br>
+<br><br>
+<a href="https://info.flagcounter.com/Ga27"><img src="https://s11.flagcounter.com/count2/Ga27/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
