@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 <!-- <font face="helvetica" size="3"><p align="justify">Hi, this is my official website!</p></font> -->
-
-I am a Principal Software Engineer (R&D Innovation) at ITEC, Nexperia from July 2021.
+<div style="text-align: justify"> 
+I am a Principal Software Engineer (Innovation team) at ITEC B.V. from July 2021.
 
 Prior to that I was an early-stage researcher in the [Electronic Systems group](https://www.tue.nl/en/research/research-groups/electronic-systems/) of the Department of Electrical Engineering at [Eindhoven University of Technology (TU/e)](https://www.tue.nl/en/). My doctoral thesis was titled "Multiprocessor Image-Based Control: Model-Driven Optimisation". I was part of the [FitOptiVis](https://fitoptivis.eu/) project and was an Early-Stage Researcher in the [oCPS](http://ocps-itn.eu/) project.
 
@@ -23,6 +23,7 @@ I realised my love for research and decided to pursue my career in research. Aft
 
 An opportunity to research in this direction arose with the oCPS (Platform-aware Model-driven Optimization of Cyber-Physical Systems) project, which I gladly accepted. After the successful completion of this project, I worked in the FitOptiVis (From the cloud to the edge – smart IntegraTion and OPtimisation Technologies for highly efficient Image and VIdeo processing Systems) project from November 2019 to May 2021.
 
+ </div>
 <style>
 img {
   float: left;
