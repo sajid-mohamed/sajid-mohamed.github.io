@@ -10,19 +10,20 @@ redirect_from:
 
 <!-- <font face="helvetica" size="3"><p align="justify">Hi, this is my official website!</p></font> -->
 <font face="helvetica" size="3"><p align="justify">
-I am a Principal Software Engineer (Innovation team) at ITEC B.V. from July 2021.
+I am a Principal Software Engineer (Innovation team) at ITEC B.V. from July 2021. I am coordinating the activities of ITEC for the <a href="https://www.imoco4e.eu/" target="_blank">Intelligent Motion Control for Industry4.E (IMOCO4.E)</a> ECSEL JU project management. ITEC provides the pilot for semiconductor production in IMOCO4.E.
+I am also developing and integrating vision-in-the-loop solution and deep learning algorithms for the Automated Die Attach (ADAT) equipment.
   </p>
   <p align="justify">
-Prior to that I was an early-stage researcher in the [Electronic Systems group](https://www.tue.nl/en/research/research-groups/electronic-systems/) of the Department of Electrical Engineering at [Eindhoven University of Technology (TU/e)](https://www.tue.nl/en/). My doctoral thesis was titled "Multiprocessor Image-Based Control: Model-Driven Optimisation". I was part of the [FitOptiVis](https://fitoptivis.eu/) project and was an Early-Stage Researcher in the [oCPS](http://ocps-itn.eu/) project.
+Prior to that I was an early-stage researcher in the <a href="https://www.tue.nl/en/research/research-groups/electronic-systems/" target="_blank"> Electronic Systems group</a> of the Department of Electrical Engineering at <a href="https://www.tue.nl/en/" target="_blank"> Eindhoven University of Technology (TU/e)</a>. My doctoral thesis was titled "Multiprocessor Image-Based Control: Model-Driven Optimisation". I was part of the <a href="https://fitoptivis.eu/" target="_blank"> FitOptiVis</a> project and was an Early-Stage Researcher in the <a href="http://ocps-itn.eu/" target="_blank">oCPS</a> project.
 
   </p>
   <p align="justify">
-I graduated as an electrical & electronics engineer with a passion for embedded systems, robotics, microprocessors and microcontrollers from [National Insitute of Technology (NIT) Calicut](http://nitc.ac.in/) in 2012.
+I graduated as an electrical & electronics engineer with a passion for embedded systems, robotics, microprocessors and microcontrollers from <a href="http://nitc.ac.in/" target="_blank">National Insitute of Technology (NIT) Calicut</a> in 2012.
 
   </p>
   <p align="justify">
-This passion led me to pursue my Masters' in Embedded Controls & Software at [Indian Institute of Technology (IIT) Kharagpur](http://iitkgp.ac.in/). It is during my masters' that I became fascinated with formal methods in design, modelling and analysis of embedded systems. I got involved in a collaborative sponsored project on Architecture-aware timing analysis and optimization of safety-critical automotive software (AUTOSAFE).
-I was then awarded the prestigious DAAD scholarship to pursue my masters' thesis at the [Institute of Real-time Computer Systems](https://www.ei.tum.de/rcs/startseite/) at TU Munich, Germany. Here, I had worked on Timing analysis in automotive systems in collaboration with [Inchron GmbH](https://www.inchron.com/).
+This passion led me to pursue my Masters' in Embedded Controls & Software at <a href="http://iitkgp.ac.in/" target="_blank">Indian Institute of Technology (IIT) Kharagpur</a>. It is during my masters' that I became fascinated with formal methods in design, modelling and analysis of embedded systems. I got involved in a collaborative sponsored project on Architecture-aware timing analysis and optimization of safety-critical automotive software (AUTOSAFE).
+I was then awarded the prestigious DAAD scholarship to pursue my masters' thesis at the <a href="https://www.ei.tum.de/rcs/startseite/" target="_blank">Institute of Real-time Computer Systems</a> at TU Munich, Germany. Here, I had worked on Timing analysis in automotive systems in collaboration with <a href="https://www.inchron.com/" target="_blank">Inchron GmbH</a>.
 
   </p>
   <p align="justify">
