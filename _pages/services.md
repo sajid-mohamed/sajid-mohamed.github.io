@@ -17,9 +17,11 @@ Reviewer
 * DATE
 * DSD
 * MECO
+* ETFA
 * Journal of Microprocessors and Microsystems (MICPRO)
 * IEEE Design and Test
 * International Journal of Control
+* IEEE Embedded System Letters
 
 Program Committee
 ======
