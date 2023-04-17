@@ -15,6 +15,7 @@ Education
 ======
 * B.Tech in Electrical and Electronics Engineering, National Institute of Technology Calicut, 2012
 * M.Tech in Embedded Controls and Software, Indian Institute of Technology Kharagpur, 2014
+* PhD in Multiprocessor Image-Based Control: Model-Driven Optimisation, Eindhoven University of Technology, 2022
 
 Work experience
 ======
@@ -46,10 +47,20 @@ Work experience
   * Philips Healthcare, Best, The Netherlands
   * Topic: An attempt at modelling multi-source video streams transmission over ethernet.
 
-* 01 June 2016 - **present**: Early-Stage Researcher
+* 01 June 2016 - 31 May 2020: Early-Stage Researcher
   * Electronic Systems Group, Eindhoven University of Technology, The Netherlands
   * Duties included: Sponsored projects involved - [oCPS](http://ocps-itn.eu/), [FitOptiVis](https://fitoptivis.eu/). Involved in research and teaching.
   * Supervisors: Prof.dr.ir. Twan Basten and Dr. Dip Goswami
+  
+* 01 June 2020 - 31 May 2021: University Researcher
+  * Electronic Systems Group, Eindhoven University of Technology, The Netherlands
+  * Duties included: Sponsored projects involved - [FitOptiVis](https://fitoptivis.eu/). Involved in research and teaching.
+
+* 01 June 2021 - **present**: Guest Researcher
+  * Electronic Systems Group, Eindhoven University of Technology, The Netherlands
+  
+* 01 July 2021 - **present**: Principal Software Engineer, Innovation team
+  * ITEC B.V., The Netherlands
   
 Publications
 ======
