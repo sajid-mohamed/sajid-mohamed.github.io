@@ -1,12 +1,15 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<font face="helvetica" color="#A93226" size="4">
+<p>About me</p></font>
 
 <!-- <font face="helvetica" size="3"><p align="justify">Hi, this is my official website!</p></font> -->
 <font face="helvetica" size="3"><p align="justify">
