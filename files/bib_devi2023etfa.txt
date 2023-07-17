@@ -1,0 +1,6 @@
+@INPROCEEDINGS{devi2023etfa,
+  author={Manickam, Devi Darshini and Mohamed, Sajid Jain, Vibhor and Goswami, Dip and Lensink, Leonard},
+  booktitle={Emerging Technologies and Factory Automation (ETFA)}, 
+  title={A Structured Inference Optimization Approach for Vision-Based DNN Deployment on Legacy Systems}, 
+  year={2023}
+}

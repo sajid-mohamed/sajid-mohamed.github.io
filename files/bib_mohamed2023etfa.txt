@@ -1,0 +1,6 @@
+@inproceedings{imocoframework,
+  title={The {IMOCO4.E} reference framework for intelligent motion control systems},
+  author={Mohamed, Sajid and others},
+  booktitle={ETFA},
+  year={2023}
+}

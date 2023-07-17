@@ -1,0 +1,6 @@
+@INPROCEEDINGS{jugade2023ecc,
+  author={Jugade, Chaitanya and Hartgers, Daniel and Mohamed, Sajid and Goswami, Dip and Nelson, Andrew and van der Veen, Gijs and Goossens, Kees},
+  booktitle={{European Control Conference (ECC)}}, 
+  title={Improved Positioning Precision using a Multi-rate Multi-sensor in Industrial Motion Control Systems}, 
+  year={2023}
+}

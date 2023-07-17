@@ -1,0 +1,6 @@
+@INPROCEEDINGS{jain2023dsd,
+  author={Jain, Vibhor and Mohamed, Sajid and Goswami, Dip and Stuijk, Sander},
+  booktitle={Digital System Design (DSD)}, 
+  title={Vision-based multi-size object positioning}, 
+  year={2023}
+}
