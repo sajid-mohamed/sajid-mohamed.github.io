@@ -5,5 +5,5 @@ year = "2022",
 month = dec,
 day = "20",
 language = "English",
-school = "Eindhoven University of Technology",
+school = "Eindhoven University of Technology"
 }
