@@ -5,6 +5,5 @@ year = "2022",
 month = dec,
 day = "20",
 language = "English",
-publisher = "Eindhoven University of Technology",
-school = "Electrical Engineering",
+school = "Eindhoven University of Technology",
 }
