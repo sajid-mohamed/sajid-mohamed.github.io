@@ -90,6 +90,8 @@ Closed-Loop Control Systems,&quot; <i>In Design, Automation and Test in Europe C
 
 <font face="helvetica" size="3">
 
+<p align="justify">4. Sajid Mohamed, &quot;D2.3 Overall requirements on IMOCO4.E reference framework,&quot; <i>Zenodo,</i> 2022. <a href="https://doi.org/10.5281/zenodo.7529264" target="_blank"><img src="/images/download.png" height="10" width="20"></a></p>
+  
 <p align="justify">3. Dip Goswami, Sajid Mohamed, and Sayandip De, &quot;Tradeoff analysis between Quality-of-Control and degree of approximate computing for image-based control systems,&quot; <i>In Proceedings of Summer School on Cyber-Physical Systems and Internet-of-Things (CPS&IoT), Vol. I, MECOnet,</i> 2019. <a href="https://www.researchgate.net/publication/333811037_Proceedings_of_CPSIoT2019_Cyber_Physical_Systems_and_Internet_of_Things" target="_blank">[details]</a> <a href="http://sajid-mohamed.github.io/files/CPSIoTTutorial.pptx" target="_blank"><img src="/images/slides.png" height="10" width="20"></a></p>
 
 <p align="justify">2. Contributor, &quot;The Future of European Research Funding – Statement on the Framework Programme 9 by the Marie Curie Alumni Association,&quot; March 2018.</p>
