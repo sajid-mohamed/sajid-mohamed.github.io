@@ -1,5 +1,5 @@
 @INPROCEEDINGS{imocoframework,
-author = {Mohamed, Sajid and Veen, Gijs van der and Kuppens, Hans and Vierimaa, Matias and Kanellos, Tassos and Stoutjesdijk, Henry and Masiero, Riccardo and Maatta, Kalle and Weit, Jan Wytze van der and Ribeiro, Gabriel and Bergmann, Ansgar and Colombo, Davide and  Arenas, Javier and Keary, Alfie and Goubej, Martin and Rouxel, Benjamin and Kilpelainen, Pekka and Kadikis, Roberts and Armendia, Mikel and Blaha, Petr and Stokkermans, Joep and Cech, Martin and Beltman, Arend-Jan},
+author = {Mohamed, Sajid and Veen, Gijs van der and Kuppens, Hans and Vierimaa, Matias and Kanellos, Tassos and Stoutjesdijk, Henry and Masiero, Riccardo and Määttä, Kalle and Weit, Jan Wytze van der and Ribeiro, Gabriel and Bergmann, Ansgar and Colombo, Davide and  Arenas, Javier and Keary, Alfie and Goubej, Martin and Rouxel, Benjamin and Kilpeläinen, Pekka and Kadiķis, Roberts and Armendia, Mikel and Blaha, Petr and Stokkermans, Joep and {\v{C}}ech, Martin and Beltman, Arend-Jan},
 title = {The {IMOCO4.E} reference framework for intelligent motion control systems},
 booktitle = {Emerging Technologies and Factory Automation (ETFA)},
 year = {2023},
