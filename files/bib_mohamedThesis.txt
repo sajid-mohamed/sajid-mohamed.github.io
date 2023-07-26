@@ -1,9 +1,6 @@
-@phdthesis{mohamedThesis,
+@book{mohamedThesis,
 title = "Multiprocessor Image-Based Control: Model-Driven Optimisation",
 author = "Sajid Mohamed",
 year = "2022",
-month = dec,
-day = "20",
-language = "English",
-school = "Eindhoven University of Technology"
+publisher = "Eindhoven University of Technology"
 }
