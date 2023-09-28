@@ -24,7 +24,7 @@ p { margin-bottom: 0px; }
 <font face="helvetica" color="#A93226" size="4">
 <p>Reviewer</p></font>
 
-  <p> Conferences: DATE, DSD, MECO, CPS&IoT, ETFA. </p>
+  <p> Conferences: DATE, DSD, MECO, CPS&IoT, ETFA, VLSID. </p>
   
   <p> Journals: Journal of Microprocessors and Microsystems (MICPRO), IEEE Design and Test, International Journal of Control, IEEE Access, IEEE Embedded System Letters. </p>
 
