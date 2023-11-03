@@ -13,7 +13,7 @@ redirect_from:
 
 <!-- <font face="helvetica" size="3"><p align="justify">Hi, this is my official website!</p></font> -->
 <font face="helvetica" size="3"><p align="justify">
-I am a Principal Software Engineer (Innovation team) at ITEC B.V. from July 2021. I am coordinating the activities of ITEC for the <a href="https://www.imoco4e.eu/" target="_blank">Intelligent Motion Control for Industry4.E (IMOCO4.E)</a> ECSEL JU project management. ITEC provides the pilot for semiconductor production in IMOCO4.E.
+I am an Embedded Software Architect (Innovation team) at ITEC<a href="https://www.itecequipment.com/" target="_blank">. I am coordinating the activities of ITEC for the <a href="https://www.imoco4e.eu/" target="_blank">Intelligent Motion Control for Industry4.E (IMOCO4.E)</a> ECSEL JU project management. ITEC provides the pilot for semiconductor production in IMOCO4.E.
 I am also developing and integrating vision-in-the-loop solution and deep learning algorithms for the Automated Die Attach (ADAT) equipment.
   </p>
   <p align="justify">
