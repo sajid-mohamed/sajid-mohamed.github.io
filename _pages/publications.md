@@ -89,6 +89,9 @@ Closed-Loop Control Systems,&quot; <i>In Design, Automation and Test in Europe C
 
 
 <font face="helvetica" size="3">
+<p align="justify">6. Sajid Mohamed, &quot;D7.4 Pilot 2: integration and validation report (initial version),&quot; <i>EU portal (confidential),</i> 2023. </p>
+  
+<p align="justify">5. Sajid Mohamed, &quot;D2.4 General specification and design of IMOCO4.E reference framework,&quot; <i>Zenodo,</i> 2023. <a href="https://www.imoco4e.eu/app/download/13384334849/D2.4%20IMOCO%20reference%20framework_FINAL.pdf?t=1698915550" target="_blank"><img src="/images/download.png" height="10" width="20"></a></p>
 
 <p align="justify">4. Sajid Mohamed, &quot;D2.3 Overall requirements on IMOCO4.E reference framework,&quot; <i>Zenodo,</i> 2022. <a href="https://doi.org/10.5281/zenodo.7529264" target="_blank"><img src="/images/download.png" height="10" width="20"></a></p>
   
