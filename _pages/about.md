@@ -58,8 +58,11 @@ img {
   <font face="helvetica" size="5">Professional Experience</font> <br><br>
 
 <font color="black">
+  <p><img src="/images/ITEC.jpg" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
+Embedded Software Architect (R&D innovation) <br>ITEC B.V. <br> <font size="2"> 2023 - present</font></p><hr>
+  
     <p><img src="/images/ITEC.jpg" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
-Principal Software Engineer (R&D innovation) <br>ITEC, Nexperia <br> <font size="2"> 2021 - present</font></p><hr>
+Principal Software Engineer (R&D innovation) <br>ITEC, Nexperia <br> <font size="2"> 2021 - 2023</font></p><hr>
   
   <p><img src="/images/tue.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
 University Researcher <br>Electronic Systems Group, Eindhoven University of Technology <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font size="2"> 2020 - 2021</font></p><hr>
