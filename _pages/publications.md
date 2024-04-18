@@ -41,8 +41,10 @@ p { margin-bottom: 0px; }
 <p>Conferences</p></font>
 
 <font face="helvetica" size="3">
-
-<p align="justify">13. Chaitanya Jugade, <b>Sajid Mohamed</b>, Dip Goswami, Andrew Nelson, Gijs Van der veen, and Kees Goossens, &quot;Predictable multi-core implementation of multi-rate sensor fusion for high-precision positioning systems,&quot; <i>In American Control Conference (ACC)</i>, 2024.  
+  
+<p align="justify">14. Vibhor Jain, <b>Sajid Mohamed</b>, Dip Goswami, and Sander Stuijk, &quot;DNN-based visual perception for high-precision motion control,&quot; <i>In European Control Conference (ECC)</i>, 2024. <a href=" https://sajid-mohamed.github.io/files/ECC_2024.pdf" target="_blank"><img src="/images/download.png" height="10" width="20"></a></p>
+  
+<p align="justify">13. Chaitanya Jugade, <b>Sajid Mohamed</b>, Dip Goswami, Andrew Nelson, Gijs Van der veen, and Kees Goossens, &quot;Predictable multi-core implementation of multi-rate sensor fusion for high-precision positioning systems,&quot; <i>In American Control Conference (ACC)</i>, 2024.   <a href="https://sajid-mohamed.github.io/files/ACC_2024.pdf" target="_blank"><img src="/images/download.png" height="10" width="20"></a>
 </p>
   
 <p align="justify">12. Sajid Mohamed, Gijs van der Veen, Hans Kuppens, Matias Vierimaa, Tassos Kanellos, Henry Stoutjesdijk, Riccardo Masiero, Kalle Maatta, Jan Wytze van der Weit, Gabriel Ribeiro, Ansgar Bergmann, Davide Colombo, Javier Arenas, Alfie Keary, Martin Goubej, Benjamin Rouxel, Pekka Kilpelainen,
