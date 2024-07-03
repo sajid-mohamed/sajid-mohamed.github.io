@@ -12,12 +12,16 @@ redirect_from:
 <p>About me</p></font>
 
 <!-- <font face="helvetica" size="3"><p align="justify">Hi, this is my official website!</p></font> -->
-<font face="helvetica" size="3"><p align="justify">
-I am an Embedded Software Architect (Innovation team) at <a href="https://www.itecequipment.com/" target="_blank">ITEC</a>. I am coordinating the activities of ITEC for the <a href="https://www.imoco4e.eu/" target="_blank">Intelligent Motion Control for Industry4.E (IMOCO4.E)</a> ECSEL JU project management. ITEC provides the pilot for semiconductor production in IMOCO4.E.
-I am also developing and integrating vision-in-the-loop solution and deep learning algorithms for the Automated Die Attach (ADAT) equipment.
+<font face="helvetica" size="3">
+<p align="justify">
+I am the Lead System Architect at DigitalTwin Technology.
+</p>
+  <p align="justify">
+Earlier, I was the Embedded Software Architect (Innovation team) at <a href="https://www.itecequipment.com/" target="_blank">ITEC</a>. I coordinated the activities of ITEC for the <a href="https://www.imoco4e.eu/" target="_blank">Intelligent Motion Control for Industry4.E (IMOCO4.E)</a> ECSEL JU project management. ITEC provided the pilot for semiconductor production in IMOCO4.E and was also the WP2 leader, a role I executed successfully. In addition, I participated in the proposal writing for the <a href="https://rebecca-chip.eu/" target="_blank">REBECCA</a> project and was also the co-leader for the work package 5 (WP5).
+While at ITEC, I also developed and integrated vision-in-the-loop solutions and deep learning algorithms for the Automated Die Attach (ADAT) equipment.
   </p>
   <p align="justify">
-Prior to that I was an early-stage researcher in the <a href="https://www.tue.nl/en/research/research-groups/electronic-systems/" target="_blank"> Electronic Systems group</a> of the Department of Electrical Engineering at <a href="https://www.tue.nl/en/" target="_blank"> Eindhoven University of Technology (TU/e)</a>. My doctoral thesis was titled "Multiprocessor Image-Based Control: Model-Driven Optimisation". I was part of the <a href="https://fitoptivis.eu/" target="_blank"> FitOptiVis</a> project and was an Early-Stage Researcher in the <a href="http://ocps-itn.eu/" target="_blank">oCPS</a> project.
+Before that I was an early-stage researcher in the <a href="https://www.tue.nl/en/research/research-groups/electronic-systems/" target="_blank"> Electronic Systems group</a> of the Department of Electrical Engineering at <a href="https://www.tue.nl/en/" target="_blank"> Eindhoven University of Technology (TU/e)</a>. My doctoral thesis was titled "Multiprocessor Image-Based Control: Model-Driven Optimisation". I was part of the <a href="https://fitoptivis.eu/" target="_blank"> FitOptiVis</a> project and was an Early-Stage Researcher in the <a href="http://ocps-itn.eu/" target="_blank">oCPS</a> project.
 
   </p>
   <p align="justify">
@@ -25,16 +29,16 @@ I graduated as an electrical & electronics engineer with a passion for embedded 
 
   </p>
   <p align="justify">
-This passion led me to pursue my Masters' in Embedded Controls & Software at <a href="http://iitkgp.ac.in/" target="_blank">Indian Institute of Technology (IIT) Kharagpur</a>. It is during my masters' that I became fascinated with formal methods in design, modelling and analysis of embedded systems. I got involved in a collaborative sponsored project on Architecture-aware timing analysis and optimization of safety-critical automotive software (AUTOSAFE).
-I was then awarded the prestigious DAAD scholarship to pursue my masters' thesis at the <a href="https://www.ei.tum.de/rcs/startseite/" target="_blank">Institute of Real-time Computer Systems</a> at TU Munich, Germany. Here, I had worked on Timing analysis in automotive systems in collaboration with <a href="https://www.inchron.com/" target="_blank">Inchron GmbH</a>.
+This passion led me to pursue my Masters' in Embedded Controls & Software at <a href="http://iitkgp.ac.in/" target="_blank">Indian Institute of Technology (IIT) Kharagpur</a>. It was during my master's that I became fascinated with formal methods in the design, modelling and analysis of embedded systems. I got involved in a collaborative sponsored project on Architecture-aware timing analysis and optimization of safety-critical automotive software (AUTOSAFE).
+I was then awarded the prestigious DAAD scholarship to pursue my master's thesis at the <a href="https://www.ei.tum.de/rcs/startseite/" target="_blank">Institute of Real-time Computer Systems</a> at TU Munich, Germany. Here, I worked on Timing analysis in automotive systems in collaboration with <a href="https://www.inchron.com/" target="_blank">Inchron GmbH</a>.
 
   </p>
   <p align="justify">
-I realised my love for research and decided to pursue my career in research. After post graduation, I continued to work on the AUTOSAFE project until its completion. I came across challenging problems faced in the formal validation and certification of automotive systems and learned of more fundamental issues faced in cyber-physical system design.
+I realised my love for research and decided to pursue a career in research. After post-graduation, I continued to work on the AUTOSAFE project until its completion. I encountered challenging problems faced in the formal validation and certification of automotive systems and learned of more fundamental issues faced in cyber-physical system design.
 
   </p>
   <p align="justify">
-An opportunity to research in this direction arose with the oCPS (Platform-aware Model-driven Optimization of Cyber-Physical Systems) project, which I gladly accepted. After the successful completion of this project, I worked in the FitOptiVis (From the cloud to the edge – smart IntegraTion and OPtimisation Technologies for highly efficient Image and VIdeo processing Systems) project from November 2019 to May 2021.
+An opportunity to research in this direction arose with the oCPS (Platform-aware Model-driven Optimization of Cyber-Physical Systems) project, which I gladly accepted. After successfully completing this project, I worked in the FitOptiVis (From the cloud to the edge – smart IntegraTion and OPtimisation Technologies for highly efficient Image and VIdeo processing Systems) project from November 2019 to May 2021.
 
 </p></font>
 
@@ -58,8 +62,11 @@ img {
   <font face="helvetica" size="5">Professional Experience</font> <br><br>
 
 <font color="black">
+  <p><img src="/images/DTT.jpg" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
+Lead System Architect <br>DigitalTwin Technology GmbH <br> <font size="2"> 2024 - present</font></p><hr>
+  
   <p><img src="/images/ITEC.jpg" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
-Embedded Software Architect (R&D innovation) <br>ITEC B.V. <br> <font size="2"> 2023 - present</font></p><hr>
+Embedded Software Architect (R&D innovation) <br>ITEC B.V. <br> <font size="2"> 2023 - 2024</font></p><hr>
   
     <p><img src="/images/ITEC.jpg" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
 Principal Software Engineer (R&D innovation) <br>ITEC, Nexperia <br> <font size="2"> 2021 - 2023</font></p><hr>
