@@ -41,7 +41,9 @@ p { margin-bottom: 0px; }
 <p>Conferences</p></font>
 
 <font face="helvetica" size="3">
-  
+
+<p align="justify">15. Matias Vierimaa, Mikko Heiskanen, <b>Sajid Mohamed</b>, and Hans Kuppens, &quot;Digital twins benefits and challenges from intelligent motion control point of view,&quot; <i>In Digital System Design (DSD)</i>, 2024. <a href=" https://sajid-mohamed.github.io/files/DSD_2024.pdf" target="_blank"><img src="/images/download.png" height="10" width="20"></a></p>
+
 <p align="justify">14. Vibhor Jain, <b>Sajid Mohamed</b>, Dip Goswami, and Sander Stuijk, &quot;DNN-based visual perception for high-precision motion control,&quot; <i>In European Control Conference (ECC)</i>, 2024. <a href=" https://sajid-mohamed.github.io/files/ECC_2024.pdf" target="_blank"><img src="/images/download.png" height="10" width="20"></a></p>
   
 <p align="justify">13. Chaitanya Jugade, <b>Sajid Mohamed</b>, Dip Goswami, Andrew Nelson, Gijs Van der veen, and Kees Goossens, &quot;Predictable multi-core implementation of multi-rate sensor fusion for high-precision positioning systems,&quot; <i>In American Control Conference (ACC)</i>, 2024.   <a href="https://sajid-mohamed.github.io/files/ACC_2024.pdf" target="_blank"><img src="/images/download.png" height="10" width="20"></a>
