@@ -72,10 +72,12 @@ Embedded Software Architect (R&D innovation) <br>ITEC B.V. <br> <font size="2"> 
 Principal Software Engineer (R&D innovation) <br>ITEC, Nexperia <br> <font size="2"> 2021 - 2023</font></p><hr>
   
   <p><img src="/images/tue.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
-University Researcher <br>Electronic Systems Group, Eindhoven University of Technology <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font size="2"> 2020 - 2021</font></p><hr>
+University Researcher <br>Electronic Systems Group, Eindhoven University of Technology 
+<br><font size="2"> 2020 - 2021</font></p><hr>
 
 <p><img src="/images/tue.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
-Early-Stage Researcher <br>Electronic Systems Group, Eindhoven University of Technology <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <font size="2">2016 - 2020</font></p><hr>
+Early-Stage Researcher <br>Electronic Systems Group, Eindhoven University of Technology 
+<br><font size="2">2016 - 2020</font></p><hr>
 
 <p><img src="/images/iit.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
 Research Assistant <br>Advanced Technology Development Centre, Indian Institute of Technology Kharagpur <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="2">2014 - 2016</font></p><hr>
@@ -95,10 +97,12 @@ Doctor of Philosophy (PhD) <br> Multiprocessor Image-Based Control: Model-Driven
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="2">2022</font></p><hr>
 
 <p><img src="/images/iit.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
-Master of Technology <br> Embedded Controls and Software <br> Indian Institute of Technology Kharagpur <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font size="2">2012 - 2014</font></p><hr>
+Master of Technology <br> Embedded Controls and Software <br> Indian Institute of Technology Kharagpur 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="2">2012 - 2014</font></p><hr>
 
 <p><img src="/images/nitc.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
-Bachelor of Technology <br> Department of Electrical and Electronics Engineering <br> National Institute of Technology Calicut <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font size="2">2008 - 2012</font></p><hr>
+Bachelor of Technology <br> Department of Electrical and Electronics Engineering <br> National Institute of Technology Calicut 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="2">2008 - 2012</font></p><hr>
 </div>
 <br>
 <br><br>
