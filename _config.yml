@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sajid Mohamed"
 title_separator          : "-"
 name                     : &name "Sajid Mohamed"
-description              : &description "Lead System Architect, DigitalTwin Technology GmbH"
+description              : &description "Lead Systems Architect, DigitalTwin Technology GmbH"
 url                      : https://sajid-mohamed.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sajid-mohamed.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sajid Mohamed"
   avatar           : "resume.jpg"
-  bio              : "Lead System Architect, DigitalTwin Technology GmbH"
+  bio              : "Lead Systems Architect, DigitalTwin Technology GmbH"
   location         : "Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
