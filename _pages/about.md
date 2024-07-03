@@ -63,7 +63,7 @@ img {
 
 <font color="black">
   <p><img src="/images/DTT.jpg" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
-Lead System Architect <br>DigitalTwin Technology GmbH <br> <font size="2"> 2024 - present</font></p><hr>
+Lead Systems Architect <br>DigitalTwin Technology GmbH <br> <font size="2"> 2024 - present</font></p><hr>
   
   <p><img src="/images/ITEC.jpg" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
 Embedded Software Architect (R&D innovation) <br>ITEC B.V. <br> <font size="2"> 2023 - 2024</font></p><hr>
