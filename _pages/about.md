@@ -14,7 +14,7 @@ redirect_from:
 <!-- <font face="helvetica" size="3"><p align="justify">Hi, this is my official website!</p></font> -->
 <font face="helvetica" size="3">
 <p align="justify">
-I am the Lead System Architect at DigitalTwin Technology.
+I am the Lead System Architect at <a href="https://www.digitaltwin.technology/index.html" target="_blank">DigitalTwin Technology</a>.
 </p>
   <p align="justify">
 Earlier, I was the Embedded Software Architect (Innovation team) at <a href="https://www.itecequipment.com/" target="_blank">ITEC</a>. I coordinated the activities of ITEC for the <a href="https://www.imoco4e.eu/" target="_blank">Intelligent Motion Control for Industry4.E (IMOCO4.E)</a> ECSEL JU project management. ITEC provided the pilot for semiconductor production in IMOCO4.E and was also the WP2 leader, a role I executed successfully. In addition, I participated in the proposal writing for the <a href="https://rebecca-chip.eu/" target="_blank">REBECCA</a> project and was also the co-leader for the work package 5 (WP5).
@@ -91,7 +91,7 @@ Research Assistant <br>Advanced Technology Development Centre, Indian Institute 
 
 <p><img src="/images/tue.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
 Doctor of Philosophy (PhD) <br> Multiprocessor Image-Based Control: Model-Driven Optimisation 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eindhoven University of Technology 
+<br>Eindhoven University of Technology 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="2">2022</font></p><hr>
 
 <p><img src="/images/iit.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
