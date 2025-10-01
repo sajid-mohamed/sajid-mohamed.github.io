@@ -42,6 +42,8 @@ p { margin-bottom: 0px; }
 
 <font face="helvetica" size="3">
 
+  <p align="justify">16. Vibhor Jain, Cézan von Meijenfeldt, Sajid Mohamed, Sander Stuijk, and Dip Goswami, &quot;Keeping Digital Twin in Sync Without Blocking the Physical Motion Stage,&quot; <i>In 19th International Conference on Control & Automation (ICCA)</i>, 2025. <a href="https://ieeexplore.ieee.org/document/11129841" target="_blank"><img src="/images/download.png" height="10" width="20"></a></p>
+
 <p align="justify">15. Matias Vierimaa, Mikko Heiskanen, <b>Sajid Mohamed</b>, and Hans Kuppens, &quot;Digital twins benefits and challenges from intelligent motion control point of view,&quot; <i>In Digital System Design (DSD)</i>, 2024. <a href=" https://sajid-mohamed.github.io/files/DSD_2024.pdf" target="_blank"><img src="/images/download.png" height="10" width="20"></a></p>
 
 <p align="justify">14. Vibhor Jain, <b>Sajid Mohamed</b>, Dip Goswami, and Sander Stuijk, &quot;DNN-based visual perception for high-precision motion control,&quot; <i>In European Control Conference (ECC)</i>, 2024. <a href=" https://sajid-mohamed.github.io/files/ECC_2024.pdf" target="_blank"><img src="/images/download.png" height="10" width="20"></a></p>
