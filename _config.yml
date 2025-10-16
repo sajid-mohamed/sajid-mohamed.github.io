@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sajid Mohamed"
 title_separator          : "-"
 name                     : &name "Sajid Mohamed"
-description              : &description "Lead Systems Architect, DigitalTwin Technology GmbH"
+description              : &description "Software Architect, Miltenyi Biotec"
 url                      : https://sajid-mohamed.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sajid-mohamed.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=z5ztMYAAAAAJ&hl=en"
-  email            : "sajid.mohamed@digitaltwin.technology"
+  email            : "dr.sajid.mohamed@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Sajid_Mohamed3"
   uri              :
   bitbucket        :
