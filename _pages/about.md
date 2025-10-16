@@ -13,8 +13,11 @@ redirect_from:
 
 <!-- <font face="helvetica" size="3"><p align="justify">Hi, this is my official website!</p></font> -->
 <font face="helvetica" size="3">
-<p align="justify">
-I am the Lead Systems Architect at <a href="https://www.digitaltwin.technology/index.html" target="_blank">DigitalTwin Technology</a>.
+  <p align="justify">  
+I am the Software Architect for Analysis Instruments Software Department and for the Analysis platform at <a href="https://www.miltenyibiotec.com/DE-en/" target="_blank">Miltenyi Biotec</a>.
+</p>
+<p align="justify">  
+During 2024 - 2025, I was the Lead Systems Architect at <a href="https://www.digitaltwin.technology/index.html" target="_blank">DigitalTwin Technology</a>.
 </p>
   <p align="justify">
 Earlier, I was the Embedded Software Architect (Innovation team) at <a href="https://www.itecequipment.com/" target="_blank">ITEC</a>. I coordinated the activities of ITEC for the <a href="https://www.imoco4e.eu/" target="_blank">Intelligent Motion Control for Industry4.E (IMOCO4.E)</a> ECSEL JU project management. ITEC provided the pilot for semiconductor production in IMOCO4.E and was also the WP2 leader, a role I executed successfully. In addition, I participated in the proposal writing for the <a href="https://rebecca-chip.eu/" target="_blank">REBECCA</a> project and was also the co-leader for the work package 5 (WP5).
@@ -62,8 +65,11 @@ img {
   <font face="helvetica" size="5">Professional Experience</font> <br><br>
 
 <font color="black">
+  <p><img src="/images/Miltenyi.jpg" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
+Software Architect <br>Miltenyi Biotec <br> <font size="2"> 2025 - present</font></p><hr>
+  
   <p><img src="/images/DTT.jpg" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
-Lead Systems Architect <br>DigitalTwin Technology GmbH <br> <font size="2"> 2024 - present</font></p><hr>
+Lead Systems Architect <br>DigitalTwin Technology GmbH <br> <font size="2"> 2024 - 2025</font></p><hr>
   
   <p><img src="/images/ITEC.jpg" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
 Embedded Software Architect (R&D innovation) <br>ITEC B.V. <br> <font size="2"> 2023 - 2024</font></p><hr>
