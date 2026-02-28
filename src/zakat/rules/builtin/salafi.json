@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "id": "salafi-default",
+  "name": "Salafi-Oriented Default Rules",
+  "madhab": "salafi",
+  "version": "1.0.0",
+  "currency": "USD",
+  "read_only_default": true,
+  "nisab_basis": {
+    "mode": "gold",
+    "source": "Common contemporary salafi-oriented implementation"
+  },
+  "rates": {
+    "zakat": 0.025
+  },
+  "asset_categories": [
+    {
+      "key": "cash",
+      "label": "Cash and bank balances",
+      "enabled": true,
+      "rate_key": "zakat",
+      "include_in_nisab": true
+    },
+    {
+      "key": "gold_silver",
+      "label": "Gold and silver",
+      "enabled": true,
+      "rate_key": "zakat",
+      "include_in_nisab": true
+    },
+    {
+      "key": "trade_inventory",
+      "label": "Trade inventory",
+      "enabled": true,
+      "rate_key": "zakat",
+      "include_in_nisab": true
+    },
+    {
+      "key": "receivables",
+      "label": "Recoverable receivables",
+      "enabled": true,
+      "rate_key": "zakat",
+      "include_in_nisab": true
+    }
+  ],
+  "debts_policy": {
+    "deduct_short_term": true,
+    "deduct_long_term": false,
+    "max_deduction_ratio": 1,
+    "notes": "Short-term liabilities are deductible in this default profile."
+  },
+  "exemptions": [
+    "primary_residence",
+    "personal_vehicle",
+    "personal_use_items"
+  ],
+  "rounding_policy": {
+    "mode": "nearest",
+    "precision": 2
+  },
+  "metadata": {
+    "movement": "salafi",
+    "maintainer": "builtin"
+  },
+  "references": [
+    {
+      "title": "Majmu' al-Fatawa (Ibn Taymiyyah)",
+      "url": "https://shamela.ws/book/7289",
+      "id": "salafi-ref-1"
+    },
+    {
+      "title": "IslamQA Zakah portal",
+      "url": "https://islamqa.info/en/categories/topics/67/zakat",
+      "id": "salafi-ref-2"
+    }
+  ],
+  "principles_scope": {
+    "reviewed_against_references": true,
+    "implemented": [
+      "nisab_threshold_basis",
+      "zakat_rate_2_5_percent",
+      "eligible_assets_screening",
+      "debt_deduction_policy",
+      "exempt_personal_use_assets",
+      "rounding_method",
+      "receivables_treatment"
+    ],
+    "not_implemented": [
+      "hawl_lunar_year"
+    ],
+    "notes": "This profile encodes quantitative calculation settings, but does not model all textual fiqh conditions; hawl lifecycle handling is expected at application/workflow level."
+  },
+  "automation_policy": {
+    "mode": "manual",
+    "unresolved_rule_policy": "warn"
+  }
+}

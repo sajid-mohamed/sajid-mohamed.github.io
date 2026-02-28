@@ -1,0 +1,447 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/zakat/rules/schema.json",
+  "title": "Zakat Rule Set",
+  "description": "Schema for configurable zakat rules and jurisprudential profiles.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "id",
+    "name",
+    "madhab",
+    "version",
+    "currency",
+    "nisab_basis",
+    "rates",
+    "asset_categories",
+    "debts_policy",
+    "exemptions",
+    "rounding_policy",
+    "read_only_default",
+    "automation_policy",
+    "principles_scope",
+    "references"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Schema migration version used to safely upgrade rule documents."
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-_]{2,63}$",
+      "description": "Stable machine-readable identifier for the ruleset."
+    },
+    "name": {
+      "type": "string",
+      "minLength": 3,
+      "maxLength": 120
+    },
+    "madhab": {
+      "type": "string",
+      "enum": [
+        "hanafi",
+        "shafi",
+        "maliki",
+        "hanbali",
+        "ja'fari",
+        "zaydi",
+        "ismaili",
+        "salafi",
+        "other"
+      ]
+    },
+    "version": {
+      "type": "string",
+      "pattern": "^v?(0|[1-9]\\d*)\\.(0|[1-9]\\d*)\\.(0|[1-9]\\d*)(?:[-+][A-Za-z0-9.-]+)?$",
+      "description": "Rule-set semantic version (e.g. 1.0.0)."
+    },
+    "currency": {
+      "type": "string",
+      "pattern": "^[A-Z]{3}$",
+      "description": "ISO-4217 currency code."
+    },
+    "read_only_default": {
+      "type": "boolean",
+      "description": "Indicates built-in defaults that should not be edited in place."
+    },
+    "nisab_basis": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "mode"
+      ],
+      "properties": {
+        "mode": {
+          "type": "string",
+          "enum": [
+            "gold",
+            "silver",
+            "custom"
+          ]
+        },
+        "threshold_grams": {
+          "type": "number",
+          "minimum": 0
+        },
+        "source": {
+          "type": "string",
+          "minLength": 2,
+          "maxLength": 200
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "mode": {
+                "const": "custom"
+              }
+            },
+            "required": [
+              "mode"
+            ]
+          },
+          "then": {
+            "required": [
+              "threshold_grams"
+            ]
+          }
+        }
+      ]
+    },
+    "rates": {
+      "type": "object",
+      "minProperties": 1,
+      "additionalProperties": {
+        "type": "number",
+        "minimum": 0,
+        "maximum": 1
+      },
+      "required": [
+        "zakat"
+      ],
+      "properties": {
+        "zakat": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        }
+      },
+      "description": "Named rates represented as decimal fractions (e.g. 0.025)."
+    },
+    "asset_categories": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "key",
+          "label",
+          "enabled",
+          "rate_key"
+        ],
+        "properties": {
+          "key": {
+            "type": "string",
+            "pattern": "^[a-z][a-z0-9_]{1,50}$"
+          },
+          "label": {
+            "type": "string",
+            "minLength": 2,
+            "maxLength": 120
+          },
+          "enabled": {
+            "type": "boolean"
+          },
+          "rate_key": {
+            "type": "string",
+            "minLength": 2,
+            "maxLength": 50
+          },
+          "include_in_nisab": {
+            "type": "boolean",
+            "default": true
+          },
+          "notes": {
+            "type": "string",
+            "maxLength": 400
+          }
+        }
+      }
+    },
+    "debts_policy": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "deduct_short_term",
+        "deduct_long_term",
+        "max_deduction_ratio"
+      ],
+      "properties": {
+        "deduct_short_term": {
+          "type": "boolean"
+        },
+        "deduct_long_term": {
+          "type": "boolean"
+        },
+        "max_deduction_ratio": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "notes": {
+          "type": "string",
+          "maxLength": 400
+        }
+      }
+    },
+    "exemptions": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "minLength": 2,
+        "maxLength": 100
+      }
+    },
+    "rounding_policy": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "mode",
+        "precision"
+      ],
+      "properties": {
+        "mode": {
+          "type": "string",
+          "enum": [
+            "none",
+            "nearest",
+            "up",
+            "down"
+          ]
+        },
+        "precision": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 6
+        }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "additionalProperties": {
+        "type": [
+          "string",
+          "number",
+          "boolean"
+        ]
+      }
+    },
+    "references": {
+      "type": "array",
+      "description": "Scholarly or standards references that informed this rule profile.",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "title",
+          "url"
+        ],
+        "properties": {
+          "title": {
+            "type": "string",
+            "minLength": 3,
+            "maxLength": 200
+          },
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https?://"
+          },
+          "notes": {
+            "type": "string",
+            "maxLength": 400
+          },
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9][a-z0-9_-]{2,63}$",
+            "description": "Stable identifier used to bind automation policy to a specific reference."
+          }
+        }
+      }
+    },
+    "principles_scope": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Declares which referenced jurisprudential principles are encoded by this machine-readable profile, and which are intentionally out of scope.",
+      "required": [
+        "reviewed_against_references",
+        "implemented",
+        "not_implemented",
+        "notes"
+      ],
+      "properties": {
+        "reviewed_against_references": {
+          "type": "boolean"
+        },
+        "implemented": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "enum": [
+              "nisab_threshold_basis",
+              "hawl_lunar_year",
+              "zakat_rate_2_5_percent",
+              "eligible_assets_screening",
+              "debt_deduction_policy",
+              "exempt_personal_use_assets",
+              "rounding_method",
+              "receivables_treatment"
+            ]
+          }
+        },
+        "not_implemented": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "enum": [
+              "nisab_threshold_basis",
+              "hawl_lunar_year",
+              "zakat_rate_2_5_percent",
+              "eligible_assets_screening",
+              "debt_deduction_policy",
+              "exempt_personal_use_assets",
+              "rounding_method",
+              "receivables_treatment"
+            ]
+          }
+        },
+        "notes": {
+          "type": "string",
+          "minLength": 10,
+          "maxLength": 600
+        }
+      }
+    },
+    "automation_policy": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Controls whether a profile is manually curated or can be auto-applied from one bound reference profile.",
+      "required": [
+        "mode",
+        "unresolved_rule_policy"
+      ],
+      "properties": {
+        "mode": {
+          "type": "string",
+          "enum": [
+            "manual",
+            "reference_assisted",
+            "reference_strict"
+          ]
+        },
+        "reference_id": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9_-]{2,63}$"
+        },
+        "require_explicit_rule_mapping": {
+          "type": "boolean",
+          "default": true
+        },
+        "unresolved_rule_policy": {
+          "type": "string",
+          "enum": [
+            "warn",
+            "block"
+          ]
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "mode": {
+                "enum": [
+                  "reference_assisted",
+                  "reference_strict"
+                ]
+              }
+            },
+            "required": [
+              "mode"
+            ]
+          },
+          "then": {
+            "required": [
+              "reference_id",
+              "require_explicit_rule_mapping"
+            ]
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "mode": {
+                "const": "reference_strict"
+              }
+            },
+            "required": [
+              "mode"
+            ]
+          },
+          "then": {
+            "properties": {
+              "unresolved_rule_policy": {
+                "const": "block"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "automation_policy": {
+            "properties": {
+              "mode": {
+                "const": "reference_strict"
+              }
+            },
+            "required": [
+              "mode"
+            ]
+          }
+        },
+        "required": [
+          "automation_policy",
+          "principles_scope"
+        ]
+      },
+      "then": {
+        "properties": {
+          "principles_scope": {
+            "properties": {
+              "not_implemented": {
+                "maxItems": 0
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}

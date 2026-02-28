@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "id": "hanafi-default",
+  "name": "Hanafi Default Rules",
+  "madhab": "hanafi",
+  "version": "1.0.0",
+  "currency": "USD",
+  "read_only_default": true,
+  "nisab_basis": {
+    "mode": "silver",
+    "source": "Classical Hanafi preference for lower nisab threshold"
+  },
+  "rates": {
+    "zakat": 0.025
+  },
+  "asset_categories": [
+    {
+      "key": "cash",
+      "label": "Cash and bank balances",
+      "enabled": true,
+      "rate_key": "zakat",
+      "include_in_nisab": true
+    },
+    {
+      "key": "gold_silver",
+      "label": "Gold and silver",
+      "enabled": true,
+      "rate_key": "zakat",
+      "include_in_nisab": true
+    },
+    {
+      "key": "trade_inventory",
+      "label": "Trade inventory",
+      "enabled": true,
+      "rate_key": "zakat",
+      "include_in_nisab": true
+    },
+    {
+      "key": "investments",
+      "label": "Receivable investments",
+      "enabled": true,
+      "rate_key": "zakat",
+      "include_in_nisab": true
+    }
+  ],
+  "debts_policy": {
+    "deduct_short_term": true,
+    "deduct_long_term": false,
+    "max_deduction_ratio": 1,
+    "notes": "Current due debts may be deducted; long-term debt treatment may vary by juristic opinion."
+  },
+  "exemptions": [
+    "primary_residence",
+    "personal_vehicle",
+    "personal_use_items"
+  ],
+  "rounding_policy": {
+    "mode": "nearest",
+    "precision": 2
+  },
+  "metadata": {
+    "region_hint": "global",
+    "maintainer": "builtin"
+  },
+  "references": [
+    {
+      "title": "Al-Hidayah (Hanafi fiqh overview)",
+      "url": "https://archive.org/details/hedayah-guide-2-volumes/page/n5/mode/2up",
+      "id": "hanafi-ref-1"
+    },
+    {
+      "title": "AAOIFI Sharia Standard No. 35 (Zakah)",
+      "url": "https://aaoifi.com/shariaa-standards/?lang=en",
+      "id": "hanafi-ref-2"
+    }
+  ],
+  "principles_scope": {
+    "reviewed_against_references": true,
+    "implemented": [
+      "nisab_threshold_basis",
+      "zakat_rate_2_5_percent",
+      "eligible_assets_screening",
+      "debt_deduction_policy",
+      "exempt_personal_use_assets",
+      "rounding_method",
+      "receivables_treatment"
+    ],
+    "not_implemented": [
+      "hawl_lunar_year"
+    ],
+    "notes": "This profile encodes quantitative calculation settings, but does not model all textual fiqh conditions; hawl lifecycle handling is expected at application/workflow level."
+  },
+  "automation_policy": {
+    "mode": "manual",
+    "unresolved_rule_policy": "warn"
+  }
+}
